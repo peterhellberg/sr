@@ -13,23 +13,23 @@ type Show struct {
 		ID   int    `json:"id"`
 		Name string `json:"name"`
 	} `json:"program"`
-	Imageurl         string `json:"imageurl"`
-	Imageurltemplate string `json:"imageurltemplate"`
+	ImageURL         string `json:"imageurl"`
+	ImageURLTemplate string `json:"imageurltemplate"`
 	Broadcast        struct {
-		Availablestoputc string `json:"availablestoputc"`
+		AvailableStopUTC string `json:"availablestoputc"`
 		Playlist         struct {
 			Duration       int    `json:"duration"`
-			Publishdateutc string `json:"publishdateutc"`
+			PublishDateUTC string `json:"publishdateutc"`
 			ID             int    `json:"id"`
 			URL            string `json:"url"`
-			Statkey        string `json:"statkey"`
+			StatKey        string `json:"statkey"`
 		} `json:"playlist"`
 		Broadcastfiles []struct {
 			Duration       int    `json:"duration"`
-			Publishdateutc string `json:"publishdateutc"`
+			PublishDateUTC string `json:"publishdateutc"`
 			ID             int    `json:"id"`
 			URL            string `json:"url"`
-			Statkey        string `json:"statkey"`
+			StatKey        string `json:"statkey"`
 		} `json:"broadcastfiles"`
 	} `json:"broadcast"`
 }
