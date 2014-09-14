@@ -2,23 +2,20 @@ package api
 
 import "encoding/json"
 
+// Song represents a song
+type Song struct {
+	Title       string `json:"title"`
+	Description string `json:"description"`
+	Artist      string `json:"artist"`
+	Composer    string `json:"composer"`
+	Conductor   string `json:"conductor"`
+}
+
 // Playlist represents a playlist for a channel
 type Playlist struct {
-	Song struct {
-		Title       string `json:"title"`
-		Description string `json:"description"`
-		Artist      string `json:"artist"`
-		Composer    string `json:"composer"`
-		Conductor   string `json:"conductor"`
-	} `json:"song"`
-	Nextsong struct {
-		Title       string `json:"title"`
-		Description string `json:"description"`
-		Artist      string `json:"artist"`
-		Composer    string `json:"composer"`
-		Conductor   string `json:"conductor"`
-	} `json:"nextsong"`
-	Channel struct {
+	Song     *Song `json:"song"`
+	NextSong *Song `json:"nextsong"`
+	Channel  struct {
 		ID   int    `json:"id"`
 		Name string `json:"name"`
 	} `json:"channel"`
