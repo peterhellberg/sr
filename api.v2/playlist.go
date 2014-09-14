@@ -13,12 +13,9 @@ type Song struct {
 
 // Playlist represents a playlist for a channel
 type Playlist struct {
-	Song     *Song `json:"song"`
-	NextSong *Song `json:"nextsong"`
-	Channel  struct {
-		ID   int    `json:"id"`
-		Name string `json:"name"`
-	} `json:"channel"`
+	Song     *Song    `json:"song"`
+	NextSong *Song    `json:"nextsong"`
+	Channel  *Channel `json:"channel"`
 }
 
 // GetPlaylist retrieves the current playlist for the given channel id
