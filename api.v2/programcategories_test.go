@@ -13,6 +13,6 @@ func TestGetProgramCategories(t *testing.T) {
 
 	assert.Nil(err)
 
-	assert.Equal(len(pc), 11)
-	assert.Equal(pc[10].Name, "Vetenskap/Miljö")
+	assert.Equal(11, len(pc))
+	assert.Equal("Vetenskap/Miljö", pc[10].Name)
 }
