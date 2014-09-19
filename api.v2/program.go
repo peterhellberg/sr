@@ -15,7 +15,7 @@ type Program struct {
 	SocialImageTemplate  string           `json:"socialimagetemplate"`
 	Channel              *Channel         `json:"channel"`
 	Archived             bool             `json:"archived"`
-	Hasondemand          bool             `json:"hasondemand"`
+	HasOndemand          bool             `json:"hasondemand"`
 	Haspod               bool             `json:"haspod"`
 	ID                   int              `json:"id"`
 	Name                 string           `json:"name"`
