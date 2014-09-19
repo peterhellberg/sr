@@ -1,5 +1,6 @@
 package api
 
+// Program represents a Radio program
 type Program struct {
 	Description          string           `json:"description"`
 	ProgramCategory      *ProgramCategory `json:"programcategory"`
@@ -16,6 +17,6 @@ type Program struct {
 	Archived             bool             `json:"archived"`
 	Hasondemand          bool             `json:"hasondemand"`
 	Haspod               bool             `json:"haspod"`
-	Id                   int              `json:"id"`
+	ID                   int              `json:"id"`
 	Name                 string           `json:"name"`
 }
