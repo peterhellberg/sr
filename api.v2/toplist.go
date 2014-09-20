@@ -4,17 +4,14 @@ import "encoding/json"
 
 // Show represents a radio show
 type Show struct {
-	ID          int    `json:"id"`
-	Title       string `json:"title"`
-	Description string `json:"description"`
-	Dateutc     string `json:"dateutc"`
-	Type        string `json:"type"`
-	Program     struct {
-		ID   int    `json:"id"`
-		Name string `json:"name"`
-	} `json:"program"`
-	ImageURL         string `json:"imageurl"`
-	ImageURLTemplate string `json:"imageurltemplate"`
+	ID               int      `json:"id"`
+	Title            string   `json:"title"`
+	Description      string   `json:"description"`
+	Dateutc          string   `json:"dateutc"`
+	Type             string   `json:"type"`
+	Program          *Program `json:"program"`
+	ImageURL         string   `json:"imageurl"`
+	ImageURLTemplate string   `json:"imageurltemplate"`
 	Broadcast        struct {
 		AvailableStopUTC string `json:"availablestoputc"`
 		Playlist         struct {
