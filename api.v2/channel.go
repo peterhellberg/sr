@@ -46,7 +46,7 @@ func FetchChannel(f Fetcher, id int) (*Channel, error) {
 	}
 
 	if value.Channel == nil {
-		return &Channel{}, errors.New("missing channels key in JSON")
+		return nil, errors.New("missing channels key in JSON")
 	}
 
 	return value.Channel, nil
