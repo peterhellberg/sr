@@ -1,6 +1,11 @@
 package api
 
-import "encoding/json"
+import (
+	"encoding/json"
+	"errors"
+
+	"github.com/peterhellberg/voice"
+)
 
 // Channel represent a Radio channel
 type Channel struct {
@@ -22,18 +27,26 @@ type Channel struct {
 
 // GetChannel retrieves a channel with the given id
 func GetChannel(id int) (*Channel, error) {
-	resp, err := Get("channels/%v?format=json", id)
+	return FetchChannel(HTTPFetcher{}, id)
+}
+
+// FetchChannel retrieves a channel with the given id using a Fetcher
+func FetchChannel(f Fetcher, id int) (*Channel, error) {
+	body, err := f.Fetch(URL("channels/%v?format=json", id))
 	if err != nil {
 		return nil, err
 	}
 
 	var value struct {
-		Copyright string   `json:"copyright"`
-		Channel   *Channel `json:"channel"`
+		Channel *Channel `json:"channel"`
 	}
 
-	if err = json.NewDecoder(resp.Body).Decode(&value); err != nil {
+	if err = json.Unmarshal(body, &value); err != nil {
 		return nil, err
+	}
+
+	if value.Channel == nil {
+		return &Channel{}, errors.New("missing channels key in JSON")
 	}
 
 	return value.Channel, nil
@@ -41,18 +54,27 @@ func GetChannel(id int) (*Channel, error) {
 
 // GetChannels retrieves all channels
 func GetChannels() ([]*Channel, error) {
-	resp, err := Get("channels?format=json&pagination=false")
+	return FetchChannels(HTTPFetcher{})
+}
+
+// FetchChannels retrieves all channels using a Fetcher
+func FetchChannels(f Fetcher) ([]*Channel, error) {
+	body, err := f.Fetch(URL("channels?format=json&pagination=false"))
 	if err != nil {
 		return nil, err
 	}
 
 	var value struct {
-		Copyright string     `json:"copyright"`
-		Channels  []*Channel `json:"channels"`
+		Channels []*Channel `json:"channels"`
 	}
 
-	if err = json.NewDecoder(resp.Body).Decode(&value); err != nil {
+	if err = json.Unmarshal(body, &value); err != nil {
 		return nil, err
+	}
+
+	if value.Channels == nil {
+		voice.Say("Nil")
+		//return &Channel{}, errors.New("missing channels key in JSON")
 	}
 
 	return value.Channels, nil
