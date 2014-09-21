@@ -4,7 +4,12 @@ import "encoding/json"
 
 // GetNews retrieves all news programs
 func GetNews() ([]*Program, error) {
-	resp, err := Get("news?format=json")
+	return FetchNews(HTTPFetcher{})
+}
+
+// FetchNames retrieves all news programs using a fetcher
+func FetchNews(f Fetcher) ([]*Program, error) {
+	body, err := f.Fetch(URL("news?format=json"))
 	if err != nil {
 		return nil, err
 	}
@@ -13,7 +18,7 @@ func GetNews() ([]*Program, error) {
 		Programs []*Program `json:"programs"`
 	}
 
-	if err = json.NewDecoder(resp.Body).Decode(&value); err != nil {
+	if err = json.Unmarshal(body, &value); err != nil {
 		return nil, err
 	}
 
