@@ -1,6 +1,9 @@
 package api
 
-import "encoding/json"
+import (
+	"encoding/json"
+	"errors"
+)
 
 // Show represents a radio show
 type Show struct {
@@ -48,19 +51,26 @@ func GetMonthToplist() ([]*Show, error) {
 
 // GetToplist retrieves the toplist for the given number of days
 func GetToplist(days int) ([]*Show, error) {
-	resp, err := Get("toplist?format=json&pagination=false&interval=%v", days)
+	return FetchToplist(HTTPFetcher{}, days)
+}
+
+// FetchToplist retrieves the toplist for the given number of days using a Fetcher
+func FetchToplist(f Fetcher, days int) ([]*Show, error) {
+	body, err := f.Fetch(URL("toplist?format=json&pagination=false&interval=%v", days))
 	if err != nil {
 		return nil, err
 	}
 
 	var value struct {
-		Description string  `json:"description"`
-		Copyright   string  `json:"copyright"`
-		Shows       []*Show `json:"shows"`
+		Shows []*Show `json:"shows"`
 	}
 
-	if err = json.NewDecoder(resp.Body).Decode(&value); err != nil {
+	if err = json.Unmarshal(body, &value); err != nil {
 		return nil, err
+	}
+
+	if value.Shows == nil {
+		return nil, errors.New("missing shows key in JSON")
 	}
 
 	return value.Shows, nil

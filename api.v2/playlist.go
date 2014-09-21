@@ -1,6 +1,9 @@
 package api
 
-import "encoding/json"
+import (
+	"encoding/json"
+	"errors"
+)
 
 // Song represents a song
 type Song struct {
@@ -20,18 +23,26 @@ type Playlist struct {
 
 // GetPlaylist retrieves the current playlist for the given channel id
 func GetPlaylist(id int) (*Playlist, error) {
-	resp, err := Get("playlists/rightnow?format=json&channelid=%v", id)
+	return FetchPlaylist(HTTPFetcher{}, id)
+}
+
+// FetchPlaylist retrieves the current playlist for the given channel id using a Fetcher
+func FetchPlaylist(f Fetcher, id int) (*Playlist, error) {
+	body, err := f.Fetch(URL("playlists/rightnow?format=json&channelid=%v", id))
 	if err != nil {
 		return nil, err
 	}
 
 	var value struct {
-		Copyright string    `json:"copyright"`
-		Playlist  *Playlist `json:"playlist"`
+		Playlist *Playlist `json:"playlist"`
 	}
 
-	if err = json.NewDecoder(resp.Body).Decode(&value); err != nil {
+	if err = json.Unmarshal(body, &value); err != nil {
 		return nil, err
+	}
+
+	if value.Playlist == nil {
+		return nil, errors.New("missing playlist key in JSON")
 	}
 
 	return value.Playlist, nil
