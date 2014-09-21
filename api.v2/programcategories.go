@@ -2,24 +2,29 @@ package api
 
 import "encoding/json"
 
+// ProgramCategory represents a Radio program category
 type ProgramCategory struct {
-	Id   int    `json:"id"`
+	ID   int    `json:"id"`
 	Name string `json:"name"`
 }
 
-// GetProgramCategories retrieves all channels
+// GetProgramCategories retrieves all program categories
 func GetProgramCategories() ([]*ProgramCategory, error) {
-	resp, err := Get("programcategories?format=json&pagination=false")
+	return FetchProgramCategories(HTTPFetcher{})
+}
+
+// FetchProgramCategories retrieves all program categories using a Fetcher
+func FetchProgramCategories(f Fetcher) ([]*ProgramCategory, error) {
+	body, err := f.Fetch(URL("programcategories?format=json&pagination=false"))
 	if err != nil {
 		return nil, err
 	}
 
 	var value struct {
-		Copyright         string             `json:"copyright"`
 		ProgramCategories []*ProgramCategory `json:"programcategories"`
 	}
 
-	if err = json.NewDecoder(resp.Body).Decode(&value); err != nil {
+	if err = json.Unmarshal(body, &value); err != nil {
 		return nil, err
 	}
 
