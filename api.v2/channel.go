@@ -3,8 +3,6 @@ package api
 import (
 	"encoding/json"
 	"errors"
-
-	"github.com/peterhellberg/voice"
 )
 
 // Channel represent a Radio channel
@@ -73,8 +71,7 @@ func FetchChannels(f Fetcher) ([]*Channel, error) {
 	}
 
 	if value.Channels == nil {
-		voice.Say("Nil")
-		//return &Channel{}, errors.New("missing channels key in JSON")
+		return []*Channel{}, errors.New("missing channels key in JSON")
 	}
 
 	return value.Channels, nil
