@@ -24,7 +24,7 @@ type Channel struct {
 	LiveAudio     struct {
 		ID      int    `json:"id"`
 		URL     string `json:"url"`
-		Statkey string `json:"statkey"`
+		StatKey string `json:"statkey"`
 	} `json:"liveaudio"`
 	ScheduleURL string `json:"scheduleurl"`
 	ChannelType string `json:"channeltype"`

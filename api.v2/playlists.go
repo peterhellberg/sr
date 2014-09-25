@@ -15,6 +15,13 @@ type playlistsService struct {
 	client *Client
 }
 
+// Playlist represents a playlist for a channel
+type Playlist struct {
+	Song     *Song    `json:"song"`
+	NextSong *Song    `json:"nextsong"`
+	Channel  *Channel `json:"channel"`
+}
+
 // Song represents a song
 type Song struct {
 	Title       string `json:"title"`
@@ -22,13 +29,6 @@ type Song struct {
 	Artist      string `json:"artist"`
 	Composer    string `json:"composer"`
 	Conductor   string `json:"conductor"`
-}
-
-// Playlist represents a playlist for a channel
-type Playlist struct {
-	Song     *Song    `json:"song"`
-	NextSong *Song    `json:"nextsong"`
-	Channel  *Channel `json:"channel"`
 }
 
 // GetPlaylist retrieves the current playlist for the given channel id

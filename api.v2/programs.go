@@ -26,7 +26,7 @@ type Program struct {
 	Channel              *Channel         `json:"channel"`
 	Archived             bool             `json:"archived"`
 	HasOndemand          bool             `json:"hasondemand"`
-	Haspod               bool             `json:"haspod"`
+	HasPod               bool             `json:"haspod"`
 	ID                   int              `json:"id"`
 	Name                 string           `json:"name"`
 }
