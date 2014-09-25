@@ -10,6 +10,7 @@ type scheduledEpisodesService struct {
 	client *Client
 }
 
+// ScheduledEpisode represents a scheduled Radio episode
 type ScheduledEpisode struct {
 	EpisodeID    int      `json:"episodeid"`
 	Title        string   `json:"title"`
