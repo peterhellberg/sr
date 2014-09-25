@@ -3,6 +3,7 @@ package api
 import (
 	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"net/http"
 	"net/url"
 )
@@ -15,10 +16,13 @@ const (
 // A Client communicates with the Sveriges Radio API.
 type Client struct {
 	Channels          ChannelsService
+	Episodes          EpisodesService
 	News              NewsService
 	Playlists         PlaylistsService
-	Programs          ProgramsService
 	ProgramCategories ProgramCategoriesService
+	Programs          ProgramsService
+	ScheduledEpisodes ScheduledEpisodesService
+	Sport             SportService
 	Toplist           ToplistService
 
 	// BaseURL is the base url for Sveriges Radio API.
@@ -50,10 +54,13 @@ func NewClient(httpClient *http.Client) *Client {
 	}
 
 	c.Channels = &channelsService{c}
+	c.Episodes = &episodesService{c}
 	c.News = &newsService{c}
 	c.Playlists = &playlistsService{c}
-	c.Programs = &programsService{c}
 	c.ProgramCategories = &programCategoriesService{c}
+	c.Programs = &programsService{c}
+	c.ScheduledEpisodes = &scheduledEpisodesService{c}
+	c.Sport = &sportService{c}
 	c.Toplist = &toplistService{c}
 
 	return c
@@ -97,4 +104,38 @@ func (c *Client) Do(req *http.Request, v interface{}) (*http.Response, error) {
 	}
 
 	return resp, nil
+}
+
+// OLD HTTP
+
+const (
+	// APIBaseURL is the base url for Sveriges Radio API
+	APIBaseURL = "http://api.sr.se/api/v2"
+)
+
+// URL generates a URL to an API endpoint
+func URL(s string, a ...interface{}) string {
+	return fmt.Sprintf("%s/%s", APIBaseURL, fmt.Sprintf(s, a...))
+}
+
+type Fetcher interface {
+	Fetch(url string) ([]byte, error)
+}
+
+type HTTPFetcher struct{}
+
+func (f HTTPFetcher) Fetch(url string) ([]byte, error) {
+	response, err := http.Get(url)
+	if err != nil {
+		return nil, err
+	}
+
+	defer response.Body.Close()
+
+	body, err := ioutil.ReadAll(response.Body)
+	if err != nil {
+		return nil, err
+	}
+
+	return body, nil
 }
