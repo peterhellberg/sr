@@ -1,15 +1,5 @@
 package api
 
-// EpisodesService communicates with the episodes
-// related endpoints in the Sveriges Radio API
-type EpisodesService interface {
-}
-
-// episodesService implements EpisodesService.
-type episodesService struct {
-	client *Client
-}
-
 // Episode represent a Radio episode
 type Episode struct {
 	ID               int      `json:"id"`
@@ -35,4 +25,14 @@ type Podfile struct {
 	ID              int      `json:"id"`
 	URL             string   `json:"url"`
 	StatKey         string   `json:"statkey"`
+}
+
+// EpisodesService communicates with the episodes
+// related endpoints in the Sveriges Radio API
+type EpisodesService interface {
+}
+
+// episodesService implements EpisodesService.
+type episodesService struct {
+	client *Client
 }
