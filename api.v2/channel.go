@@ -5,6 +5,16 @@ import (
 	"errors"
 )
 
+// ChannelsService communicates with the channels
+// related endpoints in the Sveriges Radio API
+type ChannelsService interface {
+}
+
+// channelsService implements ChannelsService.
+type channelsService struct {
+	client *Client
+}
+
 // Channel represent a Radio channel
 type Channel struct {
 	Image         string `json:"image"`

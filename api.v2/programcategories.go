@@ -2,6 +2,16 @@ package api
 
 import "encoding/json"
 
+// ProgramCategoriesService communicates with the program categories
+// related endpoints in the Sveriges Radio API
+type ProgramCategoriesService interface {
+}
+
+// programCategoriesService implements ProgramCategoriesService.
+type programCategoriesService struct {
+	client *Client
+}
+
 // ProgramCategory represents a Radio program category
 type ProgramCategory struct {
 	ID   int    `json:"id"`

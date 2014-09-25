@@ -1,5 +1,15 @@
 package api
 
+// ProgramsService communicates with the programs
+// related endpoints in the Sveriges Radio API
+type ProgramsService interface {
+}
+
+// programsService implements ProgramsService.
+type programsService struct {
+	client *Client
+}
+
 // Program represents a Radio program
 type Program struct {
 	Description          string           `json:"description"`

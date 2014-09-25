@@ -5,6 +5,16 @@ import (
 	"errors"
 )
 
+// PlaylistsService communicates with the playlists
+// related endpoints in the Sveriges Radio API
+type PlaylistsService interface {
+}
+
+// playlistsService implements PlaylistsService.
+type playlistsService struct {
+	client *Client
+}
+
 // Song represents a song
 type Song struct {
 	Title       string `json:"title"`

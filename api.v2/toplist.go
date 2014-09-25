@@ -5,6 +5,16 @@ import (
 	"errors"
 )
 
+// ToplistService communicates with the toplist
+// related endpoints in the Sveriges Radio API
+type ToplistService interface {
+}
+
+// toplistService implements ToplistService.
+type toplistService struct {
+	client *Client
+}
+
 // Show represents a radio show
 type Show struct {
 	ID               int      `json:"id"`

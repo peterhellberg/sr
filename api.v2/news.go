@@ -2,6 +2,16 @@ package api
 
 import "encoding/json"
 
+// NewsService communicates with the news
+// related endpoints in the Sveriges Radio API
+type NewsService interface {
+}
+
+// newsService implements NewsService.
+type newsService struct {
+	client *Client
+}
+
 // GetNews retrieves all news programs
 func GetNews() ([]*Program, error) {
 	return FetchNews(HTTPFetcher{})
