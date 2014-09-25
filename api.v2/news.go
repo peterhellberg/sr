@@ -1,10 +1,11 @@
 package api
 
-import "encoding/json"
+import "errors"
 
 // NewsService communicates with the news
 // related endpoints in the Sveriges Radio API
 type NewsService interface {
+	All() ([]*Program, error)
 }
 
 // newsService implements NewsService.
@@ -12,14 +13,11 @@ type newsService struct {
 	client *Client
 }
 
-// GetNews retrieves all news programs
-func GetNews() ([]*Program, error) {
-	return FetchNews(HTTPFetcher{})
-}
+// All retrieves all programs
+func (s *newsService) All() ([]*Program, error) {
+	path := "news?format=json"
 
-// FetchNames retrieves all news programs using a fetcher
-func FetchNews(f Fetcher) ([]*Program, error) {
-	body, err := f.Fetch(URL("news?format=json"))
+	req, err := s.client.NewRequest(path)
 	if err != nil {
 		return nil, err
 	}
@@ -28,8 +26,13 @@ func FetchNews(f Fetcher) ([]*Program, error) {
 		Programs []*Program `json:"programs"`
 	}
 
-	if err = json.Unmarshal(body, &value); err != nil {
+	_, err = s.client.Do(req, &value)
+	if err != nil {
 		return nil, err
+	}
+
+	if value.Programs == nil {
+		return nil, errors.New("missing programs key in JSON")
 	}
 
 	return value.Programs, nil

@@ -1,16 +1,6 @@
 package api
 
-import "encoding/json"
-
-// ProgramCategoriesService communicates with the program categories
-// related endpoints in the Sveriges Radio API
-type ProgramCategoriesService interface {
-}
-
-// programCategoriesService implements ProgramCategoriesService.
-type programCategoriesService struct {
-	client *Client
-}
+import "errors"
 
 // ProgramCategory represents a Radio program category
 type ProgramCategory struct {
@@ -18,14 +8,22 @@ type ProgramCategory struct {
 	Name string `json:"name"`
 }
 
-// GetProgramCategories retrieves all program categories
-func GetProgramCategories() ([]*ProgramCategory, error) {
-	return FetchProgramCategories(HTTPFetcher{})
+// ProgramCategoriesService communicates with the program categories
+// related endpoints in the Sveriges Radio API
+type ProgramCategoriesService interface {
+	All() ([]*ProgramCategory, error)
 }
 
-// FetchProgramCategories retrieves all program categories using a Fetcher
-func FetchProgramCategories(f Fetcher) ([]*ProgramCategory, error) {
-	body, err := f.Fetch(URL("programcategories?format=json&pagination=false"))
+// programCategoriesService implements ProgramCategoriesService.
+type programCategoriesService struct {
+	client *Client
+}
+
+// All retrieves all program categories
+func (s *programCategoriesService) All() ([]*ProgramCategory, error) {
+	path := "programcategories?format=json&pagination=false"
+
+	req, err := s.client.NewRequest(path)
 	if err != nil {
 		return nil, err
 	}
@@ -34,8 +32,13 @@ func FetchProgramCategories(f Fetcher) ([]*ProgramCategory, error) {
 		ProgramCategories []*ProgramCategory `json:"programcategories"`
 	}
 
-	if err = json.Unmarshal(body, &value); err != nil {
+	_, err = s.client.Do(req, &value)
+	if err != nil {
 		return nil, err
+	}
+
+	if value.ProgramCategories == nil {
+		return []*ProgramCategory{}, errors.New("missing programcategories key in JSON")
 	}
 
 	return value.ProgramCategories, nil

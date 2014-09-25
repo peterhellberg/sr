@@ -1,19 +1,9 @@
 package api
 
 import (
-	"encoding/json"
 	"errors"
+	"fmt"
 )
-
-// PlaylistsService communicates with the playlists
-// related endpoints in the Sveriges Radio API
-type PlaylistsService interface {
-}
-
-// playlistsService implements PlaylistsService.
-type playlistsService struct {
-	client *Client
-}
 
 // Playlist represents a playlist for a channel
 type Playlist struct {
@@ -31,14 +21,22 @@ type Song struct {
 	Conductor   string `json:"conductor"`
 }
 
-// GetPlaylist retrieves the current playlist for the given channel id
-func GetPlaylist(id int) (*Playlist, error) {
-	return FetchPlaylist(HTTPFetcher{}, id)
+// PlaylistsService communicates with the playlists
+// related endpoints in the Sveriges Radio API
+type PlaylistsService interface {
+	Get(id int) (*Playlist, error)
 }
 
-// FetchPlaylist retrieves the current playlist for the given channel id using a Fetcher
-func FetchPlaylist(f Fetcher, id int) (*Playlist, error) {
-	body, err := f.Fetch(URL("playlists/rightnow?format=json&channelid=%v", id))
+// playlistsService implements PlaylistsService.
+type playlistsService struct {
+	client *Client
+}
+
+// Get retrieves a playlist with the given id
+func (s *playlistsService) Get(id int) (*Playlist, error) {
+	path := fmt.Sprintf("playlists/rightnow?format=json&channelid=%v", id)
+
+	req, err := s.client.NewRequest(path)
 	if err != nil {
 		return nil, err
 	}
@@ -47,7 +45,8 @@ func FetchPlaylist(f Fetcher, id int) (*Playlist, error) {
 		Playlist *Playlist `json:"playlist"`
 	}
 
-	if err = json.Unmarshal(body, &value); err != nil {
+	_, err = s.client.Do(req, &value)
+	if err != nil {
 		return nil, err
 	}
 

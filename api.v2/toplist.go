@@ -1,19 +1,9 @@
 package api
 
 import (
-	"encoding/json"
 	"errors"
+	"fmt"
 )
-
-// ToplistService communicates with the toplist
-// related endpoints in the Sveriges Radio API
-type ToplistService interface {
-}
-
-// toplistService implements ToplistService.
-type toplistService struct {
-	client *Client
-}
 
 // Show represents a radio show
 type Show struct {
@@ -44,29 +34,25 @@ type Show struct {
 	} `json:"broadcast"`
 }
 
-// GetDayToplist returns the toplist for the last day
-func GetDayToplist() ([]*Show, error) {
-	return GetToplist(1)
+// ToplistService communicates with the toplist
+// related endpoints in the Sveriges Radio API
+type ToplistService interface {
+	Get(days int) ([]*Show, error)
+	GetDay() ([]*Show, error)
+	GetWeek() ([]*Show, error)
+	GetMonth() ([]*Show, error)
 }
 
-// GetWeekToplist returns the toplist for the last week
-func GetWeekToplist() ([]*Show, error) {
-	return GetToplist(7)
+// toplistService implements ToplistService.
+type toplistService struct {
+	client *Client
 }
 
-// GetMonthToplist returns the toplist for the last month
-func GetMonthToplist() ([]*Show, error) {
-	return GetToplist(30)
-}
+// Get retrieves a toplist for the given number of days
+func (s *toplistService) Get(days int) ([]*Show, error) {
+	path := fmt.Sprintf("toplist?format=json&pagination=false&interval=%v", days)
 
-// GetToplist retrieves the toplist for the given number of days
-func GetToplist(days int) ([]*Show, error) {
-	return FetchToplist(HTTPFetcher{}, days)
-}
-
-// FetchToplist retrieves the toplist for the given number of days using a Fetcher
-func FetchToplist(f Fetcher, days int) ([]*Show, error) {
-	body, err := f.Fetch(URL("toplist?format=json&pagination=false&interval=%v", days))
+	req, err := s.client.NewRequest(path)
 	if err != nil {
 		return nil, err
 	}
@@ -75,7 +61,8 @@ func FetchToplist(f Fetcher, days int) ([]*Show, error) {
 		Shows []*Show `json:"shows"`
 	}
 
-	if err = json.Unmarshal(body, &value); err != nil {
+	_, err = s.client.Do(req, &value)
+	if err != nil {
 		return nil, err
 	}
 
@@ -84,4 +71,19 @@ func FetchToplist(f Fetcher, days int) ([]*Show, error) {
 	}
 
 	return value.Shows, nil
+}
+
+// GetDay returns the toplist for the last day
+func (s *toplistService) GetDay() ([]*Show, error) {
+	return s.Get(1)
+}
+
+// GetWeek returns the toplist for the last week
+func (s *toplistService) GetWeek() ([]*Show, error) {
+	return s.Get(7)
+}
+
+// GetMonth returns the toplist for the last month
+func (s *toplistService) GetMonth() ([]*Show, error) {
+	return s.Get(30)
 }
