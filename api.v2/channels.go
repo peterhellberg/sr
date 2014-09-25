@@ -15,22 +15,25 @@ type channelsService struct {
 	client *Client
 }
 
+// LiveAudio represents live audio
+type LiveAudio struct {
+	ID      int    `json:"id"`
+	URL     string `json:"url"`
+	StatKey string `json:"statkey"`
+}
+
 // Channel represent a Radio channel
 type Channel struct {
-	Image         string `json:"image"`
-	Imagetemplate string `json:"imagetemplate"`
-	Color         string `json:"color"`
-	SiteURL       string `json:"siteurl"`
-	LiveAudio     struct {
-		ID      int    `json:"id"`
-		URL     string `json:"url"`
-		StatKey string `json:"statkey"`
-	} `json:"liveaudio"`
-	ScheduleURL string `json:"scheduleurl"`
-	ChannelType string `json:"channeltype"`
-	XMLTvID     string `json:"xmltvid"`
-	ID          int    `json:"id"`
-	Name        string `json:"name"`
+	Image         string     `json:"image"`
+	Imagetemplate string     `json:"imagetemplate"`
+	Color         string     `json:"color"`
+	SiteURL       string     `json:"siteurl"`
+	LiveAudio     *LiveAudio `json:"liveaudio"`
+	ScheduleURL   string     `json:"scheduleurl"`
+	ChannelType   string     `json:"channeltype"`
+	XMLTvID       string     `json:"xmltvid"`
+	ID            int        `json:"id"`
+	Name          string     `json:"name"`
 }
 
 // GetChannel retrieves a channel with the given id
