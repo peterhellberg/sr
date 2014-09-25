@@ -20,15 +20,3 @@ func TestNewRequest(t *testing.T) {
 	assert.Nil(t, err)
 	assert.Equal(t, "http://api.sr.se/api/v2/foo?bar=123", r.URL.String())
 }
-
-// Old HTTP tests
-
-func TestAPIBaseURL(t *testing.T) {
-	expectedURL := "http://api.sr.se/api/v2"
-	assert.Equal(t, expectedURL, APIBaseURL)
-}
-
-func TestURL(t *testing.T) {
-	expectedURL := "http://api.sr.se/api/v2/foo?id=123"
-	assert.Equal(t, expectedURL, URL("foo?id=%v", 123))
-}
