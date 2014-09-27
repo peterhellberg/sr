@@ -1,0 +1,185 @@
+{
+  "copyright": "Copyright Sveriges Radio 2014. All rights reserved.",
+  "episodes": [
+    {
+      "id": 433388,
+      "title": "PR, opium och ministerdebatt - live från Örebro",
+      "description": "I torsdagens program om spetsad mat, Watson-kuppen, boktips och stor debatt om vem som är bästa ministern. Live från Ritz i Örebro. ",
+      "url": "http://sverigesradio.se/sida/avsnitt/433388?programid=3718",
+      "program": {
+        "id": 3718,
+        "name": "Tankesmedjan"
+      },
+      "publishdateutc": "\/Date(1411653960000)\/",
+      "imageurl": "http://sverigesradio.se/sida/images/3718/3186467_512_512.jpg?preset=api-default-square",
+      "imageurltemplate": "http://sverigesradio.se/sida/images/3718/3186467_512_512.jpg",
+      "broadcast": {
+        "availablestoputc": "\/Date(1414249200000)\/",
+        "playlist": {
+          "duration": 3240,
+          "publishdateutc": "\/Date(1411653960000)\/",
+          "id": 5089619,
+          "url": "http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5089619&codingformat=.m4a&metafile=asx&quality=hi",
+          "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433388)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 3240,
+            "publishdateutc": "\/Date(1411653960000)\/",
+            "id": 5089619,
+            "url": "http://sverigesradio.se/topsy/ljudfil/5089619-hi.m4a",
+            "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433388)]"
+          }
+        ]
+      },
+      "listenpodfile": {
+        "title": "PR, opium och ministerdebatt - live från Örebro",
+        "description": "I torsdagens program om spetsad mat, Watson-kuppen, boktips och stor debatt om vem som är bästa ministern. Live från Ritz i Örebro. \n\nMedverkande: Dilan Apak, Moa Lundqvist, Ahmed Berhan och Jonatan Unge.\n\nProducent: Tobias Wallin samt Rickard Nerbe",
+        "filesizeinbytes": 28337530,
+        "program": {
+          "id": 3718,
+          "name": "Tankesmedjan"
+        },
+        "duration": 1766,
+        "publishdateutc": "\/Date(1411660800000)\/",
+        "id": 5089612,
+        "url": "http://sverigesradio.se/topsy/ljudfil/5089612.mp3",
+        "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433388)]"
+      },
+      "downloadpodfile": {
+        "title": "PR, opium och ministerdebatt - live från Örebro",
+        "description": "I torsdagens program om spetsad mat, Watson-kuppen, boktips och stor debatt om vem som är bästa ministern. Live från Ritz i Örebro. \n\nMedverkande: Dilan Apak, Moa Lundqvist, Ahmed Berhan och Jonatan Unge.\n\nProducent: Tobias Wallin samt Rickard Nerbe",
+        "filesizeinbytes": 28337530,
+        "program": {
+          "id": 3718,
+          "name": "Tankesmedjan"
+        },
+        "duration": 1766,
+        "publishdateutc": "\/Date(1411660800000)\/",
+        "id": 5089612,
+        "url": "http://sverigesradio.se/topsy/ljudfil/5089612.mp3",
+        "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433388)]"
+      }
+    },
+    {
+      "id": 433357,
+      "title": "Pesten, trängseln och gudomligheten",
+      "description": "I onsdagens program om Turkiet måste välja mellan pest och kolera, vi helgar den hela onsdagen med ett gudomligt medley och äntligen: Tankesmedjan dokumentär presenterar: Fallet ”Trängselskatten i Göteborg”.  PODDEXKLUSIVT: Abeles nya jobb.",
+      "url": "http://sverigesradio.se/sida/avsnitt/433357?programid=3718",
+      "program": {
+        "id": 3718,
+        "name": "Tankesmedjan"
+      },
+      "publishdateutc": "\/Date(1411567560000)\/",
+      "imageurl": "http://sverigesradio.se/sida/images/3718/3186467_512_512.jpg?preset=api-default-square",
+      "imageurltemplate": "http://sverigesradio.se/sida/images/3718/3186467_512_512.jpg",
+      "broadcast": {
+        "availablestoputc": "\/Date(1414162800000)\/",
+        "playlist": {
+          "duration": 3240,
+          "publishdateutc": "\/Date(1411567560000)\/",
+          "id": 5088272,
+          "url": "http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5088272&codingformat=.m4a&metafile=asx&quality=hi",
+          "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433357)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 3240,
+            "publishdateutc": "\/Date(1411567560000)\/",
+            "id": 5088272,
+            "url": "http://sverigesradio.se/topsy/ljudfil/5088272-hi.m4a",
+            "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433357)]"
+          }
+        ]
+      },
+      "listenpodfile": {
+        "title": "Pesten, trängseln och gudomligheten",
+        "description": "---BSK: I onsdagens program om Turkiet måste välja mellan pest och kolera, vi helgar den hela onsdagen med ett gudomligt medley och äntligen: Tankesmedjan dokumentär presenterar: Fallet ”Trängselskatten i Göteborg”. PODDEXKLUSIVT: Abeles nya jobb.\nMedverkande: Dilan Apak, Moa Lundqvist, Ahmed Berhan och Jonatan Unge.\nProducent: Tobias Wallin.",
+        "filesizeinbytes": 35000802,
+        "program": {
+          "id": 3718,
+          "name": "Tankesmedjan"
+        },
+        "duration": 2182,
+        "publishdateutc": "\/Date(1411574400000)\/",
+        "id": 5088278,
+        "url": "http://sverigesradio.se/topsy/ljudfil/5088278.mp3",
+        "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433357)]"
+      },
+      "downloadpodfile": {
+        "title": "Pesten, trängseln och gudomligheten",
+        "description": "---BSK: I onsdagens program om Turkiet måste välja mellan pest och kolera, vi helgar den hela onsdagen med ett gudomligt medley och äntligen: Tankesmedjan dokumentär presenterar: Fallet ”Trängselskatten i Göteborg”. PODDEXKLUSIVT: Abeles nya jobb.\nMedverkande: Dilan Apak, Moa Lundqvist, Ahmed Berhan och Jonatan Unge.\nProducent: Tobias Wallin.",
+        "filesizeinbytes": 35000802,
+        "program": {
+          "id": 3718,
+          "name": "Tankesmedjan"
+        },
+        "duration": 2182,
+        "publishdateutc": "\/Date(1411574400000)\/",
+        "id": 5088278,
+        "url": "http://sverigesradio.se/topsy/ljudfil/5088278.mp3",
+        "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433357)]"
+      }
+    },
+    {
+      "id": 433326,
+      "title": "Abortlagarna, trängselskatterna och pundarboende",
+      "description": "I tisdagens program om att tvingas bo i en norrländsk pundarkvart, självskadebeteende, haveriet i Göteborg och jobbcoachning. PODDEXKLUSIVT: Idioter i skogen.",
+      "url": "http://sverigesradio.se/sida/avsnitt/433326?programid=3718",
+      "program": {
+        "id": 3718,
+        "name": "Tankesmedjan"
+      },
+      "publishdateutc": "\/Date(1411481160000)\/",
+      "imageurl": "http://sverigesradio.se/sida/images/3718/3186467_512_512.jpg?preset=api-default-square",
+      "imageurltemplate": "http://sverigesradio.se/sida/images/3718/3186467_512_512.jpg",
+      "broadcast": {
+        "availablestoputc": "\/Date(1414076400000)\/",
+        "playlist": {
+          "duration": 3240,
+          "publishdateutc": "\/Date(1411481160000)\/",
+          "id": 5087002,
+          "url": "http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5087002&codingformat=.m4a&metafile=asx&quality=hi",
+          "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433326)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 3240,
+            "publishdateutc": "\/Date(1411481160000)\/",
+            "id": 5087002,
+            "url": "http://sverigesradio.se/topsy/ljudfil/5087002-hi.m4a",
+            "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433326)]"
+          }
+        ]
+      },
+      "listenpodfile": {
+        "title": "Abortlagarna, trängselskatterna och pundarboendena",
+        "description": "I tisdagens program om att tvingas bo i en norrländsk pundarkvart, självskadebeteende, haveriet i Göteborg och jobbcoachning. PODDEXKLUSIVT: Idioter i skogen.\n\nMedverkande: Dilan Apak, Moa Lundqvist, Ahmed Berhan och Victor Linnér. \nProducent: Tobias Wallin",
+        "filesizeinbytes": 35105983,
+        "program": {
+          "id": 3718,
+          "name": "Tankesmedjan"
+        },
+        "duration": 2189,
+        "publishdateutc": "\/Date(1411488000000)\/",
+        "id": 5087013,
+        "url": "http://sverigesradio.se/topsy/ljudfil/5087013.mp3",
+        "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433326)]"
+      },
+      "downloadpodfile": {
+        "title": "Abortlagarna, trängselskatterna och pundarboendena",
+        "description": "I tisdagens program om att tvingas bo i en norrländsk pundarkvart, självskadebeteende, haveriet i Göteborg och jobbcoachning. PODDEXKLUSIVT: Idioter i skogen.\n\nMedverkande: Dilan Apak, Moa Lundqvist, Ahmed Berhan och Victor Linnér. \nProducent: Tobias Wallin",
+        "filesizeinbytes": 35105983,
+        "program": {
+          "id": 3718,
+          "name": "Tankesmedjan"
+        },
+        "duration": 2189,
+        "publishdateutc": "\/Date(1411488000000)\/",
+        "id": 5087013,
+        "url": "http://sverigesradio.se/topsy/ljudfil/5087013.mp3",
+        "statkey": "/app/avsnitt/p3[k(164)]/tankesmedjan[p(3718)]/tankesmedjan[e(433326)]"
+      }
+    }
+  ]
+}
