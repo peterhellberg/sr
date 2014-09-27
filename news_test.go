@@ -7,7 +7,8 @@ import (
 )
 
 func TestNewsAll(t *testing.T) {
-	c := NewClient(nil)
+	ts, c := testServerAndClientByFixture("news")
+	defer ts.Close()
 
 	news, err := c.News.All()
 

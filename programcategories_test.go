@@ -7,7 +7,8 @@ import (
 )
 
 func TestProgramCategoriesAll(t *testing.T) {
-	c := NewClient(nil)
+	ts, c := testServerAndClientByFixture("programcategories")
+	defer ts.Close()
 
 	pc, err := c.ProgramCategories.All()
 

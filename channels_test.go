@@ -7,7 +7,8 @@ import (
 )
 
 func TestChannelsAll(t *testing.T) {
-	c := NewClient(nil)
+	ts, c := testServerAndClientByFixture("channels")
+	defer ts.Close()
 
 	channels, _ := c.Channels.All()
 
@@ -15,7 +16,8 @@ func TestChannelsAll(t *testing.T) {
 }
 
 func TestChannelsGet(t *testing.T) {
-	c := NewClient(nil)
+	ts, c := testServerAndClientByFixture("channels_132")
+	defer ts.Close()
 
 	channel, err := c.Channels.Get(132)
 
