@@ -1,0 +1,23 @@
+{
+  "copyright": "Copyright Sveriges Radio 2014. All rights reserved.",
+  "playlist": {
+    "song": {
+      "title": "Booyah",
+      "description": "Showtek & We Are Loud & Sonny Wilson - Booyah",
+      "artist": "Showtek & We Are Loud & Sonny Wilson",
+      "composer": "S. Janssen, W. Janssen, B. van den Bigg",
+      "conductor": ""
+    },
+    "nextsong": {
+      "title": "Chandelier",
+      "description": "Sia - Chandelier",
+      "artist": "Sia",
+      "composer": "Sia Furler/Jesse Shatkin",
+      "conductor": ""
+    },
+    "channel": {
+      "id": 2576,
+      "name": "Din gata"
+    }
+  }
+}

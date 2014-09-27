@@ -1,0 +1,788 @@
+{
+  "copyright": "Copyright Sveriges Radio 2014. All rights reserved.",
+  "channels": [
+    {
+      "image": "http://sverigesradio.se/sida/images/132/2186745_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/132/2186745_512_512.jpg",
+      "color": "31a1bd",
+      "siteurl": "http://sverigesradio.se/p1",
+      "liveaudio": {
+        "id": 132,
+        "url": "http://sverigesradio.se/topsy/direkt/132.mp3",
+        "statkey": "/app/direkt/p1[k(132)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=132",
+      "channeltype": "Rikskanal",
+      "xmltvid": "p1.sr.se",
+      "id": 132,
+      "name": "P1"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/163/2186754_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/163/2186754_512_512.jpg",
+      "color": "ff5a00",
+      "siteurl": "http://sverigesradio.se/p2",
+      "liveaudio": {
+        "id": 163,
+        "url": "http://sverigesradio.se/topsy/direkt/163.mp3",
+        "statkey": "/app/direkt/p2[k(163)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=163",
+      "channeltype": "Rikskanal",
+      "xmltvid": "p2.sr.se",
+      "id": 163,
+      "name": "P2"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/164/2186756_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/164/2186756_512_512.jpg",
+      "color": "19a972",
+      "siteurl": "http://sverigesradio.se/p3",
+      "liveaudio": {
+        "id": 164,
+        "url": "http://sverigesradio.se/topsy/direkt/164.mp3",
+        "statkey": "/app/direkt/p3[k(164)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=164",
+      "channeltype": "Rikskanal",
+      "xmltvid": "p3.sr.se",
+      "id": 164,
+      "name": "P3"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/213/2186760_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/213/2186760_512_512.jpg",
+      "color": "c31eaa",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/blekinge/",
+      "liveaudio": {
+        "id": 213,
+        "url": "http://sverigesradio.se/topsy/direkt/213.mp3",
+        "statkey": "/app/direkt/p4 blekinge[k(213)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=213",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4blek.sr.se",
+      "id": 213,
+      "name": "P4 Blekinge"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/223/2186762_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/223/2186762_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/dalarna/",
+      "liveaudio": {
+        "id": 223,
+        "url": "http://sverigesradio.se/topsy/direkt/223.mp3",
+        "statkey": "/app/direkt/p4 dalarna[k(223)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=223",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4dala.sr.se",
+      "id": 223,
+      "name": "P4 Dalarna"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/205/2186764_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/205/2186764_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/gotland/",
+      "liveaudio": {
+        "id": 205,
+        "url": "http://sverigesradio.se/topsy/direkt/205.mp3",
+        "statkey": "/app/direkt/p4 gotland[k(205)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=205",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4gotl.sr.se",
+      "id": 205,
+      "name": "P4 Gotland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/210/2186766_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/210/2186766_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/gavleborg/",
+      "liveaudio": {
+        "id": 210,
+        "url": "http://sverigesradio.se/topsy/direkt/210.mp3",
+        "statkey": "/app/direkt/p4 gävleborg[k(210)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=210",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4gavl.sr.se",
+      "id": 210,
+      "name": "P4 Gävleborg"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/212/2186768_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/212/2186768_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/goteborg/",
+      "liveaudio": {
+        "id": 212,
+        "url": "http://sverigesradio.se/topsy/direkt/212.mp3",
+        "statkey": "/app/direkt/p4 göteborg[k(212)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=212",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4gbg.sr.se",
+      "id": 212,
+      "name": "P4 Göteborg"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/220/2186771_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/220/2186771_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/halland/",
+      "liveaudio": {
+        "id": 220,
+        "url": "http://sverigesradio.se/topsy/direkt/220.mp3",
+        "statkey": "/app/direkt/p4 halland[k(220)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=220",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4hall.sr.se",
+      "id": 220,
+      "name": "P4 Halland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/200/2186775_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/200/2186775_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/jamtland/",
+      "liveaudio": {
+        "id": 200,
+        "url": "http://sverigesradio.se/topsy/direkt/200.mp3",
+        "statkey": "/app/direkt/p4 jämtland[k(200)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=200",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4jmtl.sr.se",
+      "id": 200,
+      "name": "P4 Jämtland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/203/2186777_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/203/2186777_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/jonkoping/",
+      "liveaudio": {
+        "id": 203,
+        "url": "http://sverigesradio.se/topsy/direkt/203.mp3",
+        "statkey": "/app/direkt/p4 jönköping[k(203)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=203",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4jkpg.sr.se",
+      "id": 203,
+      "name": "P4 Jönköping"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/201/2186779_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/201/2186779_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/kalmar/",
+      "liveaudio": {
+        "id": 201,
+        "url": "http://sverigesradio.se/topsy/direkt/201.mp3",
+        "statkey": "/app/direkt/p4 kalmar[k(201)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=201",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4kalm.sr.se",
+      "id": 201,
+      "name": "P4 Kalmar"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/211/2186781_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/211/2186781_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/kristianstad/",
+      "liveaudio": {
+        "id": 211,
+        "url": "http://sverigesradio.se/topsy/direkt/211.mp3",
+        "statkey": "/app/direkt/p4 kristianstad[k(211)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=211",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4krist.sr.se",
+      "id": 211,
+      "name": "P4 Kristianstad"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/214/2186783_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/214/2186783_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/kronoberg/",
+      "liveaudio": {
+        "id": 214,
+        "url": "http://sverigesradio.se/topsy/direkt/214.mp3",
+        "statkey": "/app/direkt/p4 kronoberg[k(214)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=214",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4kron.sr.se",
+      "id": 214,
+      "name": "P4 Kronoberg"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/207/2186785_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/207/2186785_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/malmo/",
+      "liveaudio": {
+        "id": 207,
+        "url": "http://sverigesradio.se/topsy/direkt/207.mp3",
+        "statkey": "/app/direkt/p4 malmöhus[k(207)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=207",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4malm.sr.se",
+      "id": 207,
+      "name": "P4 Malmöhus"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/209/2633733_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/209/2633733_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/norrbotten/",
+      "liveaudio": {
+        "id": 209,
+        "url": "http://sverigesradio.se/topsy/direkt/209.mp3",
+        "statkey": "/app/direkt/p4 norrbotten[k(209)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=209",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4nbtn.sr.se",
+      "id": 209,
+      "name": "P4 Norrbotten"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/206/2186802_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/206/2186802_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/sjuharad/",
+      "liveaudio": {
+        "id": 206,
+        "url": "http://sverigesradio.se/topsy/direkt/206.mp3",
+        "statkey": "/app/direkt/p4 sjuhärad[k(206)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=206",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4sju.sr.se",
+      "id": 206,
+      "name": "P4 Sjuhärad"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/208/2186806_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/208/2186806_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/skaraborg/",
+      "liveaudio": {
+        "id": 208,
+        "url": "http://sverigesradio.se/topsy/direkt/208.mp3",
+        "statkey": "/app/direkt/p4 skaraborg[k(208)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=208",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4skbg.sr.se",
+      "id": 208,
+      "name": "P4 Skaraborg"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/701/2186758_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/701/2186758_512_512.jpg",
+      "color": "c31eaa",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/stockholm/",
+      "liveaudio": {
+        "id": 701,
+        "url": "http://sverigesradio.se/topsy/direkt/701.mp3",
+        "statkey": "/app/direkt/p4 stockholm[k(701)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=701",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4sth.sr.se",
+      "id": 701,
+      "name": "P4 Stockholm"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/202/2186811_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/202/2186811_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/sormland/",
+      "liveaudio": {
+        "id": 202,
+        "url": "http://sverigesradio.se/topsy/direkt/202.mp3",
+        "statkey": "/app/direkt/p4 sörmland[k(202)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=202",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4sorm.sr.se",
+      "id": 202,
+      "name": "P4 Sörmland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/218/2186816_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/218/2186816_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/uppland/",
+      "liveaudio": {
+        "id": 218,
+        "url": "http://sverigesradio.se/topsy/direkt/218.mp3",
+        "statkey": "/app/direkt/p4 uppland[k(218)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=218",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4uppl.sr.se",
+      "id": 218,
+      "name": "P4 Uppland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/204/2186820_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/204/2186820_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/varmland/",
+      "liveaudio": {
+        "id": 204,
+        "url": "http://sverigesradio.se/topsy/direkt/204.mp3",
+        "statkey": "/app/direkt/p4 värmland[k(204)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=204",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4vrml.sr.se",
+      "id": 204,
+      "name": "P4 Värmland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/219/2186824_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/219/2186824_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/vast/",
+      "liveaudio": {
+        "id": 219,
+        "url": "http://sverigesradio.se/topsy/direkt/219.mp3",
+        "statkey": "/app/direkt/p4 väst[k(219)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=219",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4vest.sr.se",
+      "id": 219,
+      "name": "P4 Väst"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/215/2186826_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/215/2186826_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/vasterbotten/",
+      "liveaudio": {
+        "id": 215,
+        "url": "http://sverigesradio.se/topsy/direkt/215.mp3",
+        "statkey": "/app/direkt/p4 västerbotten[k(215)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=215",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4vbtn.sr.se",
+      "id": 215,
+      "name": "P4 Västerbotten"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/216/2186830_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/216/2186830_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/vasternorrland/",
+      "liveaudio": {
+        "id": 216,
+        "url": "http://sverigesradio.se/topsy/direkt/216.mp3",
+        "statkey": "/app/direkt/p4 västernorrland[k(216)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=216",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4vnrl.sr.se",
+      "id": 216,
+      "name": "P4 Västernorrland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/217/2186832_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/217/2186832_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/vastmanland/",
+      "liveaudio": {
+        "id": 217,
+        "url": "http://sverigesradio.se/topsy/direkt/217.mp3",
+        "statkey": "/app/direkt/p4 västmanland[k(217)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=217",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4vstm.sr.se",
+      "id": 217,
+      "name": "P4 Västmanland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/221/2186836_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/221/2186836_512_512.jpg",
+      "color": "c31eaa",
+      "siteurl": "http://sverigesradio.se/orebro/",
+      "liveaudio": {
+        "id": 221,
+        "url": "http://sverigesradio.se/topsy/direkt/221.mp3",
+        "statkey": "/app/direkt/p4 örebro[k(221)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=221",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4oreb.sr.se",
+      "id": 221,
+      "name": "P4 Örebro"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/222/2186839_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/222/2186839_512_512.jpg",
+      "color": "c31eaa",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/ostergotland/",
+      "liveaudio": {
+        "id": 222,
+        "url": "http://sverigesradio.se/topsy/direkt/222.mp3",
+        "statkey": "/app/direkt/p4 östergötland[k(222)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=222",
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4ostg.sr.se",
+      "id": 222,
+      "name": "P4 Östergötland"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/224/2216734_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/224/2216734_512_512.jpg",
+      "color": "0739a4",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/sameradion",
+      "liveaudio": {
+        "id": 224,
+        "url": "http://sverigesradio.se/topsy/direkt/224.mp3",
+        "statkey": "/app/direkt/sr sápmi[k(224)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=224",
+      "channeltype": "Minoritet och språk",
+      "xmltvid": "sapmi.sr.se",
+      "id": 224,
+      "name": "SR Sápmi"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/226/2216738_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/226/2216738_512_512.jpg",
+      "color": "8aa9d8",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/sisuradio",
+      "liveaudio": {
+        "id": 226,
+        "url": "http://sverigesradio.se/topsy/direkt/226.mp3",
+        "statkey": "/app/direkt/sr sisuradio[k(226)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=226",
+      "channeltype": "Minoritet och språk",
+      "xmltvid": "sisu.sr.se",
+      "id": 226,
+      "name": "SR Sisuradio"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/166/2186808_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/166/2186808_512_512.jpg",
+      "color": "8aa9d8",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/international",
+      "liveaudio": {
+        "id": 166,
+        "url": "http://sverigesradio.se/topsy/direkt/166.mp3",
+        "statkey": "/app/direkt/radio sweden p6[k(166)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=166",
+      "channeltype": "Minoritet och språk",
+      "id": 166,
+      "name": "Radio Sweden P6"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/2576/1948083_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/2576/1948083_512_512.jpg",
+      "color": "00c88c",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/sida/default.aspx?programid=2576",
+      "liveaudio": {
+        "id": 2576,
+        "url": "http://sverigesradio.se/topsy/direkt/2576.mp3",
+        "statkey": "/app/direkt/din gata[k(2576)]"
+      },
+      "channeltype": "Fler kanaler",
+      "id": 2576,
+      "name": "Din gata"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/2842/2446036_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/2842/2446036_512_512.jpg",
+      "color": "00c88c",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/sida/default.aspx?programid=2842",
+      "liveaudio": {
+        "id": 2842,
+        "url": "http://sverigesradio.se/topsy/direkt/2842.mp3",
+        "statkey": "/app/direkt/metropol[k(2842)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=2842",
+      "channeltype": "Fler kanaler",
+      "xmltvid": "srmetropol.sr.se",
+      "id": 2842,
+      "name": "Metropol"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/2562/3082333_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/2562/3082333_512_512.jpg",
+      "color": "ff5a00",
+      "siteurl": "http://sverigesradio.se/sida/tabla.aspx?programid=2562",
+      "liveaudio": {
+        "id": 2562,
+        "url": "http://sverigesradio.se/topsy/direkt/2562.mp3",
+        "statkey": "/app/direkt/p2[k(2562)]"
+      },
+      "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=2562",
+      "channeltype": "Fler kanaler",
+      "xmltvid": "p2musik.sr.se",
+      "id": 2562,
+      "name": "P2"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/1607/2446187_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/1607/2446187_512_512.jpg",
+      "color": "00c88c",
+      "siteurl": "http://sverigesradio.se/p3star",
+      "liveaudio": {
+        "id": 1607,
+        "url": "http://sverigesradio.se/topsy/direkt/1607.mp3",
+        "statkey": "/app/direkt/p3 star[k(1607)]"
+      },
+      "channeltype": "Fler kanaler",
+      "xmltvid": "p3star.sr.se",
+      "id": 1607,
+      "name": "P3 Star"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/2755/2216559_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/2755/2216559_512_512.jpg",
+      "color": "cd0000",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/sida/default.aspx?programid=2755",
+      "liveaudio": {
+        "id": 2755,
+        "url": "http://sverigesradio.se/topsy/direkt/2755.mp3",
+        "statkey": "/app/direkt/radioapans knattekanal[k(2755)]"
+      },
+      "channeltype": "Fler kanaler",
+      "id": 2755,
+      "name": "Radioapans knattekanal"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/179/2589299_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/179/2589299_512_512.jpg",
+      "color": "0f8f0f",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/radiosporten/",
+      "liveaudio": {
+        "id": 179,
+        "url": "http://sverigesradio.se/topsy/direkt/179.mp3",
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "channeltype": "Lokal kanal",
+      "xmltvid": "p4riks.sr.se",
+      "id": 179,
+      "name": "P4 Radiosporten"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/1603/3237609_1400_1400.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/1603/3237609_1400_1400.jpg",
+      "color": "ff5a00",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/p2/srk/",
+      "liveaudio": {
+        "id": 1603,
+        "url": "http://sverigesradio.se/topsy/direkt/1603.mp3",
+        "statkey": "/app/direkt/p2 klassiskt[k(1603)]"
+      },
+      "channeltype": "Fler kanaler",
+      "xmltvid": "srklass.sr.se",
+      "id": 1603,
+      "name": "P2 Klassiskt"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/2619/3234181_1400_1400.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/2619/3234181_1400_1400.jpg",
+      "color": "ff5a00",
+      "siteurl": "http://sverigesradio.se/srvarlden/",
+      "liveaudio": {
+        "id": 2619,
+        "url": "http://sverigesradio.se/topsy/direkt/2619.mp3",
+        "statkey": "/app/direkt/p2 världen[k(2619)]"
+      },
+      "channeltype": "Fler kanaler",
+      "xmltvid": "srvarlden.sr.se",
+      "id": 2619,
+      "name": "P2 Världen"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.mp3",
+        "statkey": "/app/direkt/sr extra01[k(2383)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2383,
+      "name": "SR Extra01"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.mp3",
+        "statkey": "/app/direkt/sr extra02[k(2384)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2384,
+      "name": "SR Extra02"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.mp3",
+        "statkey": "/app/direkt/sr extra03[k(2385)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2385,
+      "name": "SR Extra03"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.mp3",
+        "statkey": "/app/direkt/sr extra04[k(2386)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2386,
+      "name": "SR Extra04"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.mp3",
+        "statkey": "/app/direkt/sr extra05[k(2387)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2387,
+      "name": "SR Extra05"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.mp3",
+        "statkey": "/app/direkt/sr extra06[k(2388)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2388,
+      "name": "SR Extra06"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2389,
+        "url": "http://sverigesradio.se/topsy/direkt/2389.mp3",
+        "statkey": "/app/direkt/sr extra07[k(2389)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2389,
+      "name": "SR Extra07"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 2390,
+        "url": "http://sverigesradio.se/topsy/direkt/2390.mp3",
+        "statkey": "/app/direkt/sr extra08[k(2390)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 2390,
+      "name": "SR Extra08"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 3268,
+        "url": "http://sverigesradio.se/topsy/direkt/3268.mp3",
+        "statkey": "/app/direkt/sr extra09[k(3268)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 3268,
+      "name": "SR Extra09"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 3269,
+        "url": "http://sverigesradio.se/topsy/direkt/3269.mp3",
+        "statkey": "/app/direkt/sr extra10[k(3269)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 3269,
+      "name": "SR Extra10"
+    },
+    {
+      "image": "",
+      "imagetemplate": "http://sverigesradio.se/",
+      "siteurl": "http://sverigesradio.se/radiosporten",
+      "liveaudio": {
+        "id": 3703,
+        "url": "http://sverigesradio.se/topsy/direkt/3703.mp3",
+        "statkey": "/app/direkt/sr extra 11[k(3703)]"
+      },
+      "channeltype": "Extrakanaler",
+      "id": 3703,
+      "name": "SR Extra 11"
+    },
+    {
+      "image": "http://sverigesradio.se/sida/images/3227/2880808_512_512.jpg?preset=api-default-square",
+      "imagetemplate": "http://sverigesradio.se/sida/images/3227/2880808_512_512.jpg",
+      "tagline": "",
+      "siteurl": "http://sverigesradio.se/sida/default.aspx?programid=3227",
+      "liveaudio": {
+        "id": 3227,
+        "url": "http://sverigesradio.se/topsy/direkt/3227.mp3",
+        "statkey": "/app/direkt/p5 almedalen[k(3227)]"
+      },
+      "channeltype": "Fler kanaler",
+      "id": 3227,
+      "name": "P5 Almedalen"
+    }
+  ]
+}

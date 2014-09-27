@@ -1,0 +1,19 @@
+{
+  "copyright": "Copyright Sveriges Radio 2014. All rights reserved.",
+  "channel": {
+    "image": "http://sverigesradio.se/sida/images/132/2186745_512_512.jpg?preset=api-default-square",
+    "imagetemplate": "http://sverigesradio.se/sida/images/132/2186745_512_512.jpg",
+    "color": "31a1bd",
+    "siteurl": "http://sverigesradio.se/p1",
+    "liveaudio": {
+      "id": 132,
+      "url": "http://sverigesradio.se/topsy/direkt/132.mp3",
+      "statkey": "/app/direkt/p1[k(132)]"
+    },
+    "scheduleurl": "http://sverigesradio.se/api/v2/scheduledepisodes?channelid=132",
+    "channeltype": "Rikskanal",
+    "xmltvid": "p1.sr.se",
+    "id": 132,
+    "name": "P1"
+  }
+}

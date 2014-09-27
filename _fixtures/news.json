@@ -1,0 +1,827 @@
+{
+  "programs": [
+    {
+      "description": "Lyssna på de senaste nyhetssändningarna och arkivet med Kvart-i-fem-Ekot",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "ekot@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=4540",
+      "programimage": "http://sverigesradio.se/sida/images/83/2874631_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/83/2874631_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/83/2874631_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/83/2874631_512_512.jpg",
+      "channel": {
+        "id": 83,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 4540,
+      "name": "Ekot"
+    },
+    {
+      "description": "Ekonomiekot är Ekots nyhetsprogram om senaste nytt i ekonomins värld.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "broadcastinfo": "",
+      "email": "ekonomiekot@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=178",
+      "programimage": "http://sverigesradio.se/sida/images/178/2874587_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/178/2874587_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/178/2874587_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/178/2874587_512_512.jpg",
+      "channel": {
+        "id": 83,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 178,
+      "name": "Ekonomiekot"
+    },
+    {
+      "description": "Kulturredaktionens nyhetsprogram som sänds varje vardag i P1, P2 och P4. I Kulturnytt kan du hitta nyheter, recensioner, reportage, krönikor och debatt om det internationella såväl som det nationella kulturlivet.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "payoff": "",
+      "broadcastinfo": "Varje vardag i P1, P2 och P4",
+      "email": "kulturnytt@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=478",
+      "programimage": "http://sverigesradio.se/sida/images/478/2333430_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/478/2333430_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/478/2333430_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/478/2333430_512_512.jpg",
+      "channel": {
+        "id": 478,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 478,
+      "name": "Kulturnytt"
+    },
+    {
+      "description": "Berättar vad som händer i Sverige och världen och håller extra koll på det som berör unga människor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Nyheter i P3 varje vardag 06:30-18:00. Nyhetsfördjupning med Karlsten måndag - torsdag 13-14.",
+      "email": "p3nyheter@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=1646",
+      "programimage": "http://sverigesradio.se/sida/images/1646/3402350_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/1646/3402350_1400_1400.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/1646/3402350_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/1646/3402350_1400_1400.jpg",
+      "channel": {
+        "id": 164,
+        "name": "P3"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 1646,
+      "name": "P3 Nyheter"
+    },
+    {
+      "description": "Sportnyheterna är Radiosportens nyhetssändningar som alltid är först med det senaste i sportens värld.",
+      "programcategory": {
+        "id": 10,
+        "name": "Sport"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/artikel.aspx?programid=2895&artikel=501289",
+      "programimage": "http://sverigesradio.se/sida/images/2895/2937939_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/2895/2937939_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/2895/2937939_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/2895/2937939_512_512.jpg",
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 2895,
+      "name": "Radiosportens nyhetssändningar"
+    },
+    {
+      "description": "Makten till svars. Går personen bakom nyheterna inpå djupet.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Lördagar kl 12.55, repris kl 19.03",
+      "email": "monica.saarinen@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=3071",
+      "programimage": "http://sverigesradio.se/sida/images/3071/3275488_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/3071/3275488_1400_1400.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/3071/3275488_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/3071/3275488_1400_1400.jpg",
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 3071,
+      "name": "Ekots lördagsintervju"
+    },
+    {
+      "description": "Vetenskapsnyheter från alla tänkbara forskningsområden. Här får du som lyssnare ofta höra nyheten innan den blir uppmärksammad av övriga media. Sänds i P1.",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "vet@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=406",
+      "programimage": "http://sverigesradio.se/sida/images/406/3282832_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/406/3282832_1400_1400.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/406/3282832_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/406/3282832_1400_1400.jpg",
+      "channel": {
+        "id": 406,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 406,
+      "name": "Vetenskapsradions nyheter"
+    },
+    {
+      "description": "I P4 Blekinge hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "broadcastinfo": "Tipstelefon: 0455-366810 Nyhetschef: 0455-366822 Frekvenser:Karlskrona 100,7 ● Ronneby 87,8 ● Karlshamn 100,4",
+      "email": "nyheter.blekinge@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=105",
+      "programimage": "http://sverigesradio.se/sida/images/105/2276588_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/105/2276588_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/105/2276588_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/105/2276588_512_512.jpg",
+      "channel": {
+        "id": 213,
+        "name": "P4 Blekinge"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 105,
+      "name": "Nyheter P4 Blekinge"
+    },
+    {
+      "description": "P4 Dalarna gör angelägen lokal radio för dalfolket, på plats när det händer. I våra populära program och prisbelönta nyheter hör du ämnen som berör, alltid dagsaktuella och alltid med Dalarna i centrum. P4 Dalarna utsågs till Årets lokalradio 2014.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "dalanytt@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=161",
+      "programimage": "http://sverigesradio.se/sida/images/161/2759729_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/161/2759729_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/161/2759729_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/161/2759729_512_512.jpg",
+      "channel": {
+        "id": 223,
+        "name": "P4 Dalarna"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 161,
+      "name": "Nyheter P4 Dalarna"
+    },
+    {
+      "description": "P4 Gotland bevakar det som händer på och omkring Gotland, med nyhetstelegram, intervjuer och reportage.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "gotlandsnytt@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=94",
+      "programimage": "http://sverigesradio.se/sida/images/94/3200434_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/94/3200434_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/94/3200434_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/94/3200434_512_512.jpg",
+      "channel": {
+        "id": 205,
+        "name": "P4 Gotland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 94,
+      "name": "Nyheter P4 Gotland"
+    },
+    {
+      "description": "I P4 Gävleborg hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheterna.gavleborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=99",
+      "programimage": "http://sverigesradio.se/sida/images/99/2580948_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/99/2580948_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/99/2580948_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/99/2580948_512_512.jpg",
+      "channel": {
+        "id": 210,
+        "name": "P4 Gävleborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 99,
+      "name": "Nyheter P4 Gävleborg"
+    },
+    {
+      "description": "Sveriges Radio P4 Göteborg ger dig lokala nyheter - i radion och på webben.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "p4goteborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=104",
+      "programimage": "http://sverigesradio.se/sida/images/104/3035095_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/104/3035095_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/104/3035095_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/104/3035095_512_512.jpg",
+      "channel": {
+        "id": 212,
+        "name": "P4 Göteborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 104,
+      "name": "Nyheter P4 Göteborg"
+    },
+    {
+      "description": "Hallandsekot erbjuder lokala nyheter och aktualiteter.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Halmstad 97,3 MHz ● Kungsbacka 101,3 MHz ● Varberg 103,8 MHz",
+      "email": "nyheter.halland@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=128",
+      "programimage": "http://sverigesradio.se/sida/images/128/2276679_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/128/2276679_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/128/2276679_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/128/2276679_512_512.jpg",
+      "channel": {
+        "id": 220,
+        "name": "P4 Halland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 128,
+      "name": "Nyheter P4 Halland"
+    },
+    {
+      "description": "I P4 Jämtland hör du lokala nyheter, lokala aktualiteter, lokala väderprognoser, lokal sport och lokal kultur. ",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Har du nyhetstips? Kontakta oss via e-post: p4jamtland@sr.se eller 063-16 06 00",
+      "email": "p4jamtland@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=78",
+      "programimage": "http://sverigesradio.se/sida/images/78/2276660_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/78/2276660_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/78/2276660_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/78/2276660_512_512.jpg",
+      "channel": {
+        "id": 200,
+        "name": "P4 Jämtland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 78,
+      "name": "Nyheter P4 Jämtland"
+    },
+    {
+      "description": "I P4 Jönköping Sveriges Radio hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Varje dag. Året runt.",
+      "email": "news.jkpg@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=91",
+      "programimage": "http://sverigesradio.se/sida/images/91/2792159_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/91/2792159_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/91/2792159_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/91/2792159_512_512.jpg",
+      "channel": {
+        "id": 203,
+        "name": "P4 Jönköping"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 91,
+      "name": "Nyheter P4 Jönköping"
+    },
+    {
+      "description": "P4 Kalmar ger dig lokala nyheter och program från Kalmar län.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheter.kalmar@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=86",
+      "programimage": "http://sverigesradio.se/sida/images/86/2796328_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/86/2796328_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/86/2796328_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/86/2796328_512_512.jpg",
+      "channel": {
+        "id": 201,
+        "name": "P4 Kalmar"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 86,
+      "name": "Nyheter P4 Kalmar"
+    },
+    {
+      "description": "I P4 Kristianstad hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheterna.kristianstad@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=101",
+      "programimage": "http://sverigesradio.se/sida/images/101/2276707_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/101/2276707_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/101/2276707_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/101/2276707_512_512.jpg",
+      "channel": {
+        "id": 211,
+        "name": "P4 Kristianstad"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 101,
+      "name": "Nyheter P4 Kristianstad"
+    },
+    {
+      "description": "P4 Kronoberg är länets största radiokanal med nyheter, aktualiteter och kultur. Vi ger dig angelägna program där du bor och senaste nytt från hela världen.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheter.kronoberg@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=106",
+      "programimage": "http://sverigesradio.se/sida/images/106/2276715_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/106/2276715_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/106/2276715_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/106/2276715_512_512.jpg",
+      "channel": {
+        "id": 214,
+        "name": "P4 Kronoberg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 106,
+      "name": "Nyheter P4 Kronoberg"
+    },
+    {
+      "description": "Lokala nyheter, sport och kultur från Skåne",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Helsingborg 103,2 MHz ● Hörby 89,5 MHz ● Malmö 102,0 MHz ● Trelleborg 103,7 MHz ● Ystad 103,0 MHz",
+      "email": "p4malmohus@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=96",
+      "programimage": "http://sverigesradio.se/sida/images/96/2276724_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/96/2276724_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/96/2276724_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/96/2276724_512_512.jpg",
+      "channel": {
+        "id": 207,
+        "name": "P4 Malmöhus"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 96,
+      "name": "Nyheter P4 Malmöhus"
+    },
+    {
+      "description": "P4 är Sveriges största radiokanal. Det är den snabba och närvarande lokala kanalen som utgår från din vardag. Nyheter, aktualiteter, kultur, livsstil, sport och barnradio tillsammans med bred underhållning i form av både klassiker och nysatsningar.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "P4 sänder dygnet runt – från Norrbotten, Sverige och världen.",
+      "email": "p4norrbotten@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=98",
+      "programimage": "http://sverigesradio.se/sida/images/98/2765132_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/98/2765132_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/98/2765132_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/98/2765132_512_512.jpg",
+      "channel": {
+        "id": 209,
+        "name": "P4 Norrbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 98,
+      "name": "Nyheter P4 Norrbotten"
+    },
+    {
+      "description": "Lokala nyheter över Sjuhärad - varje dag året runt",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "news.sjuharad@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=95",
+      "programimage": "http://sverigesradio.se/sida/images/95/3138396_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/95/3138396_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/95/3138396_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/95/3138396_512_512.jpg",
+      "channel": {
+        "id": 206,
+        "name": "P4 Sjuhärad"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 95,
+      "name": "Nyheter P4 Sjuhärad"
+    },
+    {
+      "description": "Vi erbjuder lokala nyheter i Skaraborg.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheterna.skaraborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=97",
+      "programimage": "http://sverigesradio.se/sida/images/97/2790616_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/97/2790616_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/97/2790616_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/97/2790616_512_512.jpg",
+      "channel": {
+        "id": 208,
+        "name": "P4 Skaraborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 97,
+      "name": "Nyheter P4 Skaraborg"
+    },
+    {
+      "description": "I P4 Radio Stockholm får du lokala nyheter, sport och kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Har du nyhetstips? Kontakta oss på stockholmsnytt@sverigesradio.se eller 08-784 96 01",
+      "email": "stockholmsnytt@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=103",
+      "programimage": "http://sverigesradio.se/sida/images/103/2949590_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/103/2949590_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/103/2949590_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/103/2949590_512_512.jpg",
+      "channel": {
+        "id": 701,
+        "name": "P4 Stockholm"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 103,
+      "name": "Nyheter P4 Stockholm"
+    },
+    {
+      "description": "I P4 Sörmland hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Har du tips? Mejla oss: sormland@sverigesradio.se",
+      "email": "sormland@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=87",
+      "programimage": "http://sverigesradio.se/sida/images/87/2771994_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/87/2771994_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/87/2771994_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/87/2771994_512_512.jpg",
+      "channel": {
+        "id": 202,
+        "name": "P4 Sörmland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 87,
+      "name": "Nyheter P4 Sörmland"
+    },
+    {
+      "description": "P4 Uppland ger dig lokala nyheter, viktiga samhällsfrågor och underhållning. Vi granskar makten, bevakar sporten och följer kulturlivet.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "p4uppland@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=114",
+      "programimage": "http://sverigesradio.se/sida/images/114/3232510_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/114/3232510_1400_1400.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/114/3232510_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/114/3232510_1400_1400.jpg",
+      "channel": {
+        "id": 218,
+        "name": "P4 Uppland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 114,
+      "name": "Nyheter P4 Uppland"
+    },
+    {
+      "description": "I P4 Värmland hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheter.varmland@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=93",
+      "programimage": "http://sverigesradio.se/sida/images/93/2577442_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/93/2577442_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/93/2577442_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/93/2577442_512_512.jpg",
+      "channel": {
+        "id": 204,
+        "name": "P4 Värmland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 93,
+      "name": "Nyheter P4 Värmland"
+    },
+    {
+      "description": "P4 Väst bevakar Bohuslän, Norra Älvsborg och Dalsland och ger dig senaste nytt från hela världen.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheter.vast@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=125",
+      "programimage": "http://sverigesradio.se/sida/images/125/2944388_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/125/2944388_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/125/2944388_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/125/2944388_512_512.jpg",
+      "channel": {
+        "id": 219,
+        "name": "P4 Väst"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 125,
+      "name": "Nyheter P4 Väst"
+    },
+    {
+      "description": "Lokala nyheter, aktualiteter och lokal kultur och lokal sport. P4 Västerbotten granskar ",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "news.vbtn@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=109",
+      "programimage": "http://sverigesradio.se/sida/images/109/3353231_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/109/3353231_1400_1400.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/109/3353231_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/109/3353231_1400_1400.jpg",
+      "channel": {
+        "id": 215,
+        "name": "P4 Västerbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 109,
+      "name": "Nyheter P4 Västerbotten"
+    },
+    {
+      "description": "I P4 Västernorrland, Länsnyheter hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "news.vasternorrland@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=110",
+      "programimage": "http://sverigesradio.se/sida/images/110/3290206_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/110/3290206_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/110/3290206_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/110/3290206_512_512.jpg",
+      "channel": {
+        "id": 216,
+        "name": "P4 Västernorrland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 110,
+      "name": "Nyheter P4 Västernorrland"
+    },
+    {
+      "description": "Sveriges Radio P4 Västmanland speglar vad som händer där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "På frekvensen 100,5. Vardagar 6.00-17.45. Under helger lokala nyheter.",
+      "email": "p4vastmanland@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=112",
+      "programimage": "http://sverigesradio.se/sida/images/112/2276883_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/112/2276883_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/112/2276883_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/112/2276883_512_512.jpg",
+      "channel": {
+        "id": 217,
+        "name": "P4 Västmanland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 112,
+      "name": "Nyheter P4 Västmanland"
+    },
+    {
+      "description": "I Sveriges Radio Örebro P4 hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor. Varje timme på vardagar mellan 6.30 till 17.30. Lördagar och söndagar 8.30 till 13.30.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheter.orebro@sr.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=159",
+      "programimage": "http://sverigesradio.se/sida/images/159/2710631_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/159/2710631_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/159/2710631_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/159/2710631_512_512.jpg",
+      "channel": {
+        "id": 221,
+        "name": "P4 Örebro"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 159,
+      "name": "Nyheter P4 Örebro"
+    },
+    {
+      "description": "I P4 Östergötland hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "nyheter.ostg@sverigesradio.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=160",
+      "programimage": "http://sverigesradio.se/sida/images/160/3035027_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/160/3035027_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/160/3035027_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/160/3035027_512_512.jpg",
+      "channel": {
+        "id": 222,
+        "name": "P4 Östergötland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 160,
+      "name": "Nyheter P4 Östergötland"
+    },
+    {
+      "description": "Ođđasat, dálkedieđut ja áigeguovdilis ságat, mánáid- ja nuoraidprográmmat, musihkka ja guoimmuheapmi/ Nyheter, väderrapporter och aktualiteter, barn- och ungdomsprogram samt musik och underhållning.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "oddasat@sverigesradio.se; oddasat@svt.se",
+      "phone": "",
+      "programurl": "http://sverigesradio.se/sida/default.aspx?programid=2327",
+      "programimage": "http://sverigesradio.se/sida/images/2327/2447039_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "http://sverigesradio.se/sida/images/2327/2447039_512_512.jpg",
+      "socialimage": "http://sverigesradio.se/sida/images/2327/2447039_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "http://sverigesradio.se/sida/images/2327/2447039_512_512.jpg",
+      "channel": {
+        "id": 224,
+        "name": "SR Sápmi"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "id": 2327,
+      "name": "Sameradion & SVT Sápmi"
+    }
+  ]
+}

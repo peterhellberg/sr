@@ -1,0 +1,326 @@
+{
+  "description":"De mest lyssnade sändningarna senaste dygnet",
+  "copyright":"Copyright Sveriges Radio 2014. All rights reserved.",
+  "shows":[
+    {
+      "id":5091298,
+      "title":"Melodikrysset 20140927 10:03",
+      "description":"Ett musikaliskt korsord med Anders Eldeman. Melodikrysset går att lösa på sverigesradio.se/melodikrysset till och med onsdag.",
+      "dateutc":"\/Date(1411804980000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":2078,
+        "name":"Melodikrysset"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/2078/3286437_1400_1400.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/2078/3286437_1400_1400.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1414404000000)\/",
+        "playlist":{
+          "duration":3420,
+          "publishdateutc":"\/Date(1411804980000)\/",
+          "id":5091298,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5091298&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/p4[k(158)]/melodikrysset[p(2078)]/melodikrysset[e(433528)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":3420,
+            "publishdateutc":"\/Date(1411804980000)\/",
+            "id":5091298,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5091298.m4a",
+            "statkey":"/app/avsnitt/p4[k(158)]/melodikrysset[p(2078)]/melodikrysset[e(433528)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5084416,
+      "title":"Digilistan med Elin Steen 20140921 12:03",
+      "description":"",
+      "dateutc":"\/Date(1411293780000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":2697,
+        "name":"DigiListan"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/2697/3406320_1400_1400.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/2697/3406320_1400_1400.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1413892800000)\/",
+        "playlist":{
+          "duration":7020,
+          "publishdateutc":"\/Date(1411293780000)\/",
+          "id":5084416,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5084416&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/p3[k(164)]/digilistan[p(2697)]/digilistan[e(430300)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":7020,
+            "publishdateutc":"\/Date(1411293780000)\/",
+            "id":5084416,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5084416.m4a",
+            "statkey":"/app/avsnitt/p3[k(164)]/digilistan[p(2697)]/digilistan[e(430300)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5091141,
+      "title":"Ekonyheter 20140927 08:00",
+      "description":"",
+      "dateutc":"\/Date(1411797600000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":4540,
+        "name":"Ekot"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/83/2874631_512_512.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/83/2874631_512_512.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1414393500000)\/",
+        "playlist":{
+          "duration":300,
+          "publishdateutc":"\/Date(1411797600000)\/",
+          "id":5091141,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5091141&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/nyheter (ekot)[k(83)]/ekot[p(4540)]/ekonyheter[e(434030)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":300,
+            "publishdateutc":"\/Date(1411797600000)\/",
+            "id":5091141,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5091141.m4a",
+            "statkey":"/app/avsnitt/nyheter (ekot)[k(83)]/ekot[p(4540)]/ekonyheter[e(434030)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5084615,
+      "title":"P3 Dokumentär 20140921 18:03",
+      "description":"",
+      "dateutc":"\/Date(1411315380000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":2519,
+        "name":"P3 Dokumentär"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/2519/2872577_512_512.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/2519/2872577_512_512.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1413914400000)\/",
+        "playlist":{
+          "duration":7020,
+          "publishdateutc":"\/Date(1411315380000)\/",
+          "id":5084615,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5084615&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/p3[k(164)]/p3 dokumentär[p(2519)]/p3 dokumentär[e(430303)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":7020,
+            "publishdateutc":"\/Date(1411315380000)\/",
+            "id":5084615,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5084615.m4a",
+            "statkey":"/app/avsnitt/p3[k(164)]/p3 dokumentär[p(2519)]/p3 dokumentär[e(430303)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5083884,
+      "title":"Melodikrysset 20140920 10:03",
+      "description":"Ett musikaliskt korsord med Anders Eldeman. Melodikrysset går att lösa på sverigesradio.se/melodikrysset till och med onsdag.",
+      "dateutc":"\/Date(1411200180000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":2078,
+        "name":"Melodikrysset"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/2078/3286437_1400_1400.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/2078/3286437_1400_1400.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1413795600000)\/",
+        "playlist":{
+          "duration":3420,
+          "publishdateutc":"\/Date(1411200180000)\/",
+          "id":5083884,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5083884&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/p4[k(158)]/melodikrysset[p(2078)]/melodikrysset[e(430504)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":3420,
+            "publishdateutc":"\/Date(1411200180000)\/",
+            "id":5083884,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5083884.m4a",
+            "statkey":"/app/avsnitt/p4[k(158)]/melodikrysset[p(2078)]/melodikrysset[e(430504)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5091129,
+      "title":"Ekonyheter 20140927 07:00",
+      "description":"",
+      "dateutc":"\/Date(1411794000000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":4540,
+        "name":"Ekot"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/83/2874631_512_512.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/83/2874631_512_512.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1414389780000)\/",
+        "playlist":{
+          "duration":180,
+          "publishdateutc":"\/Date(1411794000000)\/",
+          "id":5091129,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5091129&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/nyheter (ekot)[k(83)]/ekot[p(4540)]/ekonyheter[e(410435)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":180,
+            "publishdateutc":"\/Date(1411794000000)\/",
+            "id":5091129,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5091129.m4a",
+            "statkey":"/app/avsnitt/nyheter (ekot)[k(83)]/ekot[p(4540)]/ekonyheter[e(410435)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5091397,
+      "title":"Luncheko 20140927 12:30",
+      "description":"Med mediekrönika.",
+      "dateutc":"\/Date(1411813800000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":4540,
+        "name":"Ekot"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/83/2874631_512_512.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/83/2874631_512_512.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1414410600000)\/",
+        "playlist":{
+          "duration":1200,
+          "publishdateutc":"\/Date(1411813800000)\/",
+          "id":5091397,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5091397&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/nyheter (ekot)[k(83)]/ekot[p(4540)]/luncheko[e(434037)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":1200,
+            "publishdateutc":"\/Date(1411813800000)\/",
+            "id":5091397,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5091397.m4a",
+            "statkey":"/app/avsnitt/nyheter (ekot)[k(83)]/ekot[p(4540)]/luncheko[e(434037)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5076719,
+      "title":"P3 Dokumentär 20140914 18:03",
+      "description":"",
+      "dateutc":"\/Date(1410710580000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":2519,
+        "name":"P3 Dokumentär"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/2519/2872577_512_512.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/2519/2872577_512_512.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1413309600000)\/",
+        "playlist":{
+          "duration":7020,
+          "publishdateutc":"\/Date(1410710580000)\/",
+          "id":5076719,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5076719&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/p3[k(164)]/p3 dokumentär[p(2519)]/p3 dokumentär[e(427546)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":7020,
+            "publishdateutc":"\/Date(1410710580000)\/",
+            "id":5076719,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5076719.m4a",
+            "statkey":"/app/avsnitt/p3[k(164)]/p3 dokumentär[p(2519)]/p3 dokumentär[e(427546)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5091251,
+      "title":"Ring så spelar vi 20140927 07:03",
+      "description":"Lisa Syrén spelar önskeskivor och frågar. Telefon: 099/110 80. Slussen öppnar kl. 07.03.",
+      "dateutc":"\/Date(1411794180000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":1148,
+        "name":"Ring så spelar vi"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/1148/2750547_512_512.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/1148/2750547_512_512.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1414398600000)\/",
+        "playlist":{
+          "duration":8820,
+          "publishdateutc":"\/Date(1411794180000)\/",
+          "id":5091251,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5091251&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/p4[k(158)]/ring så spelar vi[p(1148)]/ring så spelar vi[e(433526)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":8820,
+            "publishdateutc":"\/Date(1411794180000)\/",
+            "id":5091251,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5091251.m4a",
+            "statkey":"/app/avsnitt/p4[k(158)]/ring så spelar vi[p(1148)]/ring så spelar vi[e(433526)]"
+          }
+        ]
+      }
+    },
+    {
+      "id":5091131,
+      "title":"Lördag med Lisa 20140927 06:03",
+      "description":"Lisa Syrén med musiken du minns.",
+      "dateutc":"\/Date(1411790580000)\/",
+      "type":"broadcast",
+      "program":{
+        "id":4642,
+        "name":"Lördag med Lisa"
+      },
+      "imageurl":"http://sverigesradio.se/sida/images/4642/3308702_1400_1400.jpg?preset=api-default-square",
+      "imageurltemplate":"http://sverigesradio.se/sida/images/4642/3308702_1400_1400.jpg",
+      "broadcast":{
+        "availablestoputc":"\/Date(1414389600000)\/",
+        "playlist":{
+          "duration":3420,
+          "publishdateutc":"\/Date(1411790580000)\/",
+          "id":5091131,
+          "url":"http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&id=5091131&codingformat=.m4a&metafile=asx",
+          "statkey":"/app/avsnitt/p4[k(158)]/lördag med lisa[p(4642)]/lördag med lisa[e(433525)]"
+        },
+        "broadcastfiles":[
+          {
+            "duration":3420,
+            "publishdateutc":"\/Date(1411790580000)\/",
+            "id":5091131,
+            "url":"http://sverigesradio.se/topsy/ljudfil/5091131.m4a",
+            "statkey":"/app/avsnitt/p4[k(158)]/lördag med lisa[p(4642)]/lördag med lisa[e(433525)]"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "copyright": "Copyright Sveriges Radio 2014. All rights reserved.",
+  "programcategories": [
+    {
+      "id": 2,
+      "name": "Barn"
+    },
+    {
+      "id": 82,
+      "name": "Dokumentär"
+    },
+    {
+      "id": 3,
+      "name": "Kultur/Nöje"
+    },
+    {
+      "id": 14,
+      "name": "Livsstil"
+    },
+    {
+      "id": 4,
+      "name": "Livsåskådning"
+    },
+    {
+      "id": 5,
+      "name": "Musik"
+    },
+    {
+      "id": 11,
+      "name": "News in other languages"
+    },
+    {
+      "id": 68,
+      "name": "Nyheter"
+    },
+    {
+      "id": 7,
+      "name": "Samhälle"
+    },
+    {
+      "id": 10,
+      "name": "Sport"
+    },
+    {
+      "id": 12,
+      "name": "Vetenskap/Miljö"
+    }
+  ]
+}
