@@ -1,4 +1,4 @@
-package api
+package sr
 
 // ScheduledEpisodesService communicates with the scheduledepisodes
 // related endpoints in the Sveriges Radio API

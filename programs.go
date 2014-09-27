@@ -1,4 +1,4 @@
-package api
+package sr
 
 // ProgramsService communicates with the programs
 // related endpoints in the Sveriges Radio API

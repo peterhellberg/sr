@@ -1,4 +1,4 @@
-package api
+package sr
 
 // Episode represent a Radio episode
 type Episode struct {

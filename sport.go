@@ -1,4 +1,4 @@
-package api
+package sr
 
 // SportService communicates with the sport
 // related endpoints in the Sveriges Radio API
