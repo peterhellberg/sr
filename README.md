@@ -40,6 +40,18 @@ func main() {
 }
 ```
 
+## Services
+
+### Channels
+### Episodes
+### News
+### Playlists
+### Program Categories
+### Programs
+### Scheduled Episodes
+### Sport
+### Toplist
+
 ## Utils
 
 Developed using [JSON-to-Go by](http://mholt.github.io/json-to-go/) by Matthew Holt.
