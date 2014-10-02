@@ -14,4 +14,5 @@ func TestProgramCategoriesAll(t *testing.T) {
 
 	assert.Nil(t, err)
 	assert.Equal(t, 11, len(pc))
+	assert.Equal(t, "Livsåskådning", pc[4].Name)
 }
