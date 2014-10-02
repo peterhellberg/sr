@@ -15,9 +15,7 @@ type newsService struct {
 
 // All retrieves all programs
 func (s *newsService) All() ([]*Program, error) {
-	path := "news?format=json"
-
-	req, err := s.client.NewRequest(path)
+	req, err := s.client.NewRequest(s.allPath())
 	if err != nil {
 		return nil, err
 	}
@@ -36,4 +34,8 @@ func (s *newsService) All() ([]*Program, error) {
 	}
 
 	return value.Programs, nil
+}
+
+func (s *newsService) allPath() string {
+	return "news?format=json"
 }

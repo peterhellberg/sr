@@ -34,9 +34,7 @@ type playlistsService struct {
 
 // Get retrieves a playlist with the given id
 func (s *playlistsService) Get(id int) (*Playlist, error) {
-	path := fmt.Sprintf("playlists/rightnow?format=json&channelid=%v", id)
-
-	req, err := s.client.NewRequest(path)
+	req, err := s.client.NewRequest(s.getPath(id))
 	if err != nil {
 		return nil, err
 	}
@@ -55,4 +53,8 @@ func (s *playlistsService) Get(id int) (*Playlist, error) {
 	}
 
 	return value.Playlist, nil
+}
+
+func (s *playlistsService) getPath(id int) string {
+	return fmt.Sprintf("playlists/rightnow?format=json&channelid=%v", id)
 }

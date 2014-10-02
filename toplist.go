@@ -52,9 +52,7 @@ type toplistService struct {
 
 // Get retrieves a toplist for the given number of days
 func (s *toplistService) Get(days int) ([]*Show, error) {
-	path := fmt.Sprintf("toplist?format=json&pagination=false&interval=%v", days)
-
-	req, err := s.client.NewRequest(path)
+	req, err := s.client.NewRequest(s.getPath(days))
 	if err != nil {
 		return nil, err
 	}
@@ -88,4 +86,8 @@ func (s *toplistService) GetWeek() ([]*Show, error) {
 // GetMonth returns the toplist for the last month
 func (s *toplistService) GetMonth() ([]*Show, error) {
 	return s.Get(30)
+}
+
+func (s *toplistService) getPath(days int) string {
+	return fmt.Sprintf("toplist?format=json&pagination=false&interval=%v", days)
 }

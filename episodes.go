@@ -46,9 +46,7 @@ type episodesService struct {
 }
 
 func (s *episodesService) GetLatest(id int) (*Episode, error) {
-	path := fmt.Sprintf("episodes/getlatest?programid=%v&format=json", id)
-
-	req, err := s.client.NewRequest(path)
+	req, err := s.client.NewRequest(s.getLatestPath(id))
 	if err != nil {
 		return nil, err
 	}
@@ -71,10 +69,7 @@ func (s *episodesService) GetLatest(id int) (*Episode, error) {
 
 // ByProgramID retrieves all episodes by program id
 func (s *episodesService) ByProgramID(id int) ([]*Episode, error) {
-	pathStr := "episodes/index?programid=%v&urltemplateid=3&audioquality=hi&pagination=false&format=json"
-	path := fmt.Sprintf(pathStr, id)
-
-	req, err := s.client.NewRequest(path)
+	req, err := s.client.NewRequest(s.byProgramIDPath(id))
 	if err != nil {
 		return nil, err
 	}
@@ -93,4 +88,12 @@ func (s *episodesService) ByProgramID(id int) ([]*Episode, error) {
 	}
 
 	return value.Episodes, nil
+}
+
+func (s *episodesService) getLatestPath(id int) string {
+	return fmt.Sprintf("episodes/getlatest?programid=%v&format=json", id)
+}
+
+func (s *episodesService) byProgramIDPath(id int) string {
+	return fmt.Sprintf("episodes/index?programid=%v&urltemplateid=3&audioquality=hi&pagination=false&format=json", id)
 }

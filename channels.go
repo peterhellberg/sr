@@ -40,9 +40,7 @@ type channelsService struct {
 
 // All retrieves all channels
 func (s *channelsService) All() ([]*Channel, error) {
-	path := "channels?format=json&pagination=false"
-
-	req, err := s.client.NewRequest(path)
+	req, err := s.client.NewRequest(s.allPath())
 	if err != nil {
 		return nil, err
 	}
@@ -65,9 +63,7 @@ func (s *channelsService) All() ([]*Channel, error) {
 
 // Get retrieves a channel with the given id
 func (s *channelsService) Get(id int) (*Channel, error) {
-	path := fmt.Sprintf("channels/%v?format=json", id)
-
-	req, err := s.client.NewRequest(path)
+	req, err := s.client.NewRequest(s.getPath(id))
 	if err != nil {
 		return nil, err
 	}
@@ -86,4 +82,12 @@ func (s *channelsService) Get(id int) (*Channel, error) {
 	}
 
 	return value.Channel, nil
+}
+
+func (s *channelsService) allPath() string {
+	return "channels?format=json&pagination=false"
+}
+
+func (s *channelsService) getPath(id int) string {
+	return fmt.Sprintf("channels/%v?format=json", id)
 }
