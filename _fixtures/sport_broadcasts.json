@@ -1,0 +1,5033 @@
+{
+  "copyright": "Copyright Sveriges Radio 2014. All rights reserved.",
+  "broadcasts": [
+    {
+      "id": 9849,
+      "name": "Fotboll: Helsingborgs IF - Kalmar FF",
+      "description": "ASllsvenskan i fotboll. Radiosporten direkt från Olympia",
+      "localstarttime": "\/Date(1412355300000+0200)\/",
+      "localstoptime": "\/Date(1412366400000+0200)\/",
+      "hometeam": {
+        "id": 18,
+        "name": "Helsingborgs IF"
+      },
+      "awayteam": {
+        "id": 20,
+        "name": "Kalmar FF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 28,
+        "name": "Olympia"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10777,
+      "name": "Fotboll: Degerfors-Ljungskile",
+      "description": "Degerfors möter topplaget Ljungskile hemma på Stora Valla. Lasse Hellstrandh kommenterar och Markus Karlsson är bisittare.",
+      "localstarttime": "\/Date(1412424000000+0200)\/",
+      "localstoptime": "\/Date(1412431200000+0200)\/",
+      "hometeam": {
+        "id": 44,
+        "name": "Degerfors IF"
+      },
+      "awayteam": {
+        "id": 71,
+        "name": "Ljungskile SK"
+      },
+      "league": {
+        "id": 5,
+        "name": "Superettan"
+      },
+      "season": {
+        "id": 25,
+        "name": "2013"
+      },
+      "arena": {
+        "id": 43,
+        "name": "Stora Valla"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 17,
+        "name": "Ulla Walldén"
+      },
+      "channel": {
+        "id": 2389,
+        "name": "SR Extra07"
+      },
+      "liveaudio": {
+        "id": 2389,
+        "url": "http://sverigesradio.se/topsy/direkt/2389.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      },
+      "mobileliveaudio": {
+        "id": 2389,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2389.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      }
+    },
+    {
+      "id": 10785,
+      "name": "Fotboll: KIF Örebro-Göteborg",
+      "description": "KIF Örebro möter Göteborg hemma på Bhern Arena. Kommentator Bosse Magnusson.",
+      "localstarttime": "\/Date(1412426700000+0200)\/",
+      "localstoptime": "\/Date(1412434800000+0200)\/",
+      "hometeam": {
+        "id": 54,
+        "name": "KIF Örebro DFF"
+      },
+      "awayteam": {
+        "id": 50,
+        "name": "Kopparbergs/Göteborg"
+      },
+      "league": {
+        "id": 6,
+        "name": "Allsvenskan, damer"
+      },
+      "season": {
+        "id": 35,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 22,
+        "name": "Behrn Arena"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 49,
+        "name": "Päivi Hjerp"
+      },
+      "channel": {
+        "id": 2390,
+        "name": "SR Extra08"
+      },
+      "liveaudio": {
+        "id": 2390,
+        "url": "http://sverigesradio.se/topsy/direkt/2390.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      },
+      "mobileliveaudio": {
+        "id": 2390,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2390.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med basketligan, damer, allsvensk fotboll och svenska hockeyligan. Programledare: Alexander Lundholm och Linn Nenzén.",
+      "localstarttime": "\/Date(1412427780000+0200)\/",
+      "localstoptime": "\/Date(1412440200000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 9850,
+      "name": "Fotboll: Mjällby AIF - IF Brommapojkarna",
+      "description": "Allsvenskan i fotboll. radiosporten direkt från Strandvallen. Kommentatorer Torbjörn Sunesson och Sven Olof Bergman.",
+      "localstarttime": "\/Date(1412430900000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 91,
+        "name": "Mjällby AIF"
+      },
+      "awayteam": {
+        "id": 66,
+        "name": "IF Brommapojkarna"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 41,
+        "name": "Strandvallen"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 9851,
+      "name": "Fotboll: Djurgården - Gefle IF FF",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Stockholms Arenan.Kommentator Bosse Johander.",
+      "localstarttime": "\/Date(1412430900000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 14,
+        "name": "Djurgården"
+      },
+      "awayteam": {
+        "id": 116,
+        "name": "Gefle IF FF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 91,
+        "name": "Tele2 Arena"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10366,
+      "name": "Ishockey: Luleå Hockey - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Luleå. Kommentator David Zimmer",
+      "localstarttime": "\/Date(1412430900000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 13,
+        "name": "Luleå Hockey"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 92,
+        "name": "Coop Norrbotten Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10367,
+      "name": "Ishockey: MODO Hockey - Växjö Lakers",
+      "description": "SHL hockey. Radiosporten direkt från Örnsköldsvik. Kommentator Joel Hammarström.",
+      "localstarttime": "\/Date(1412430900000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "awayteam": {
+        "id": 90,
+        "name": "Växjö Lakers"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 63,
+        "name": "Fjällräven Center"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10368,
+      "name": "Ishockey: Färjestad BK - Linköping HC",
+      "description": "SHL hockey. Radiosporten direkt från Karlstad. Kommentatorer Anders Peterson och Håkan Nordin.",
+      "localstarttime": "\/Date(1412430900000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "awayteam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 15,
+        "name": "Löfbergs Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2387,
+        "name": "SR Extra05"
+      },
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      },
+      "mobileliveaudio": {
+        "id": 2387,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2387.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      }
+    },
+    {
+      "id": 10369,
+      "name": "Ishockey: Frölunda HC - Skellefteå AIK",
+      "description": "SHL hockey. Radiosporten direkt från Scandinavium. Kommentator Olle Tyrbo.",
+      "localstarttime": "\/Date(1412430900000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "awayteam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 13,
+        "name": "Scandinavium"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    },
+    {
+      "id": 10756,
+      "name": "Ishockey: Karlskrona – Malmö",
+      "description": "Kommentatorer: Oscar Anderberg och Hans Ottinger.",
+      "localstarttime": "\/Date(1412431200000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 104,
+        "name": "Karlskrona HK"
+      },
+      "awayteam": {
+        "id": 122,
+        "name": "Malmö Redhawks"
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 33,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 82,
+        "name": "Telenor Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 59,
+        "name": "Peppe Alfiero"
+      },
+      "channel": {
+        "id": 3268,
+        "name": "SR Extra09"
+      },
+      "liveaudio": {
+        "id": 3268,
+        "url": "http://sverigesradio.se/topsy/direkt/3268.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(3268)]"
+      },
+      "mobileliveaudio": {
+        "id": 3268,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/3268.sdp",
+        "statkey": "/app/direkt/digitala medier[k(3268)]"
+      }
+    },
+    {
+      "id": 10809,
+      "name": "Ishockey: Björklöven - AIK",
+      "description": "Ishockey: Björklöven - AIK - hockeyallsvenskan.\r\nMatchen i sin helhet. Reporter: Gunnar Berlin",
+      "localstarttime": "\/Date(1412431200000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 121,
+        "name": "IF Björklöven"
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 33,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 93,
+        "name": "Umeå Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 25,
+        "name": "Karin Grönberg"
+      },
+      "channel": {
+        "id": 3269,
+        "name": "SR Extra10"
+      },
+      "liveaudio": {
+        "id": 3269,
+        "url": "http://sverigesradio.se/topsy/direkt/3269.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(3269)]"
+      },
+      "mobileliveaudio": {
+        "id": 3269,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/3269.sdp",
+        "statkey": "/app/direkt/digitala medier[k(3269)]"
+      }
+    },
+    {
+      "id": 10370,
+      "name": "Ishockey: Djurgården Hockey - Brynäs IF",
+      "description": "SHL hockey. Radiosporten direkt från Hovet. Kommentator Otto Marand.",
+      "localstarttime": "\/Date(1412439900000+0200)\/",
+      "localstoptime": "\/Date(1412451000000+0200)\/",
+      "hometeam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "awayteam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 11,
+        "name": "Hovet"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2389,
+        "name": "SR Extra07"
+      },
+      "liveaudio": {
+        "id": 2389,
+        "url": "http://sverigesradio.se/topsy/direkt/2389.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      },
+      "mobileliveaudio": {
+        "id": 2389,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2389.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      }
+    },
+    {
+      "id": 10371,
+      "name": "Ishockey: Leksands IF - Örebro Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Leksand. Kommentator Ted Stöffling.",
+      "localstarttime": "\/Date(1412439900000+0200)\/",
+      "localstoptime": "\/Date(1412451000000+0200)\/",
+      "hometeam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "awayteam": {
+        "id": 110,
+        "name": "Örebro Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 83,
+        "name": "Tegera Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2390,
+        "name": "SR Extra08"
+      },
+      "liveaudio": {
+        "id": 2390,
+        "url": "http://sverigesradio.se/topsy/direkt/2390.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      },
+      "mobileliveaudio": {
+        "id": 2390,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2390.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      }
+    },
+    {
+      "id": 10800,
+      "name": "Fotboll: Piteå IF-AIK",
+      "description": "Damallsvenskan. Kommentatorer: André Pettersson och Torsten Wiklund.",
+      "localstarttime": "\/Date(1412510100000+0200)\/",
+      "localstoptime": "\/Date(1412517600000+0200)\/",
+      "hometeam": {
+        "id": 67,
+        "name": "Piteå IF"
+      },
+      "awayteam": {
+        "id": 51,
+        "name": "AIK"
+      },
+      "league": {
+        "id": 6,
+        "name": "Allsvenskan, damer"
+      },
+      "season": {
+        "id": 35,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 57,
+        "name": "LF Arena"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 24,
+        "name": "Patrik Boström"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10801,
+      "name": "Ishockey: Värmdö HC - Visby Roma HK",
+      "description": "Femte omgången i ishockeyns division 1 östra. P4 Gotland sänder direkt från Ekhallen. Kommentator Jakob Larsson",
+      "localstarttime": "\/Date(1412512200000+0200)\/",
+      "localstoptime": "\/Date(1412524800000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 10,
+        "name": "Helena Bremberg"
+      },
+      "channel": {
+        "id": 3268,
+        "name": "SR Extra09"
+      },
+      "liveaudio": {
+        "id": 3268,
+        "url": "http://sverigesradio.se/topsy/direkt/3268.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(3268)]"
+      },
+      "mobileliveaudio": {
+        "id": 3268,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/3268.sdp",
+        "statkey": "/app/direkt/digitala medier[k(3268)]"
+      }
+    },
+    {
+      "id": 9852,
+      "name": "Fotboll: Halmstads BK - Åtvidabergs FF",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Örjans Vall. Kommentator Patric Ljunggren.",
+      "localstarttime": "\/Date(1412513700000+0200)\/",
+      "localstoptime": "\/Date(1412524800000+0200)\/",
+      "hometeam": {
+        "id": 17,
+        "name": "Halmstads BK"
+      },
+      "awayteam": {
+        "id": 31,
+        "name": "Åtvidabergs FF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 19,
+        "name": "Örjans Vall"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 9853,
+      "name": "Fotboll: Örebro - IF Elfsborg",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Behrn Arena. Kommentator Peter Widbark.",
+      "localstarttime": "\/Date(1412513700000+0200)\/",
+      "localstoptime": "\/Date(1412524800000+0200)\/",
+      "hometeam": {
+        "id": 23,
+        "name": "Örebro"
+      },
+      "awayteam": {
+        "id": 19,
+        "name": "IF Elfsborg"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 22,
+        "name": "Behrn Arena"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 9854,
+      "name": "Fotboll: IFK Norrköping FK - IFK Göteborg",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Norrköping. Kommentator Bosse Ohlsson.",
+      "localstarttime": "\/Date(1412513700000+0200)\/",
+      "localstoptime": "\/Date(1412524800000+0200)\/",
+      "hometeam": {
+        "id": 26,
+        "name": "IFK Norrköping FK"
+      },
+      "awayteam": {
+        "id": 16,
+        "name": "IFK Göteborg"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 16,
+        "name": "Nya parken"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med allsvensk fotboll, damallsvensk fotboll och internationell fotboll. Programledare: Alexander Lundholm, Linn Nenzén och Petra Svensson.",
+      "localstarttime": "\/Date(1412514180000+0200)\/",
+      "localstoptime": "\/Date(1412530200000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10724,
+      "name": "Ishockey: Mora-Vita Hästen",
+      "description": "Match i hockeyallsvenskan. Kommentator: Pelle Marklund.",
+      "localstarttime": "\/Date(1412514900000+0200)\/",
+      "localstoptime": "\/Date(1412524800000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2389,
+        "name": "SR Extra07"
+      },
+      "liveaudio": {
+        "id": 2389,
+        "url": "http://sverigesradio.se/topsy/direkt/2389.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      },
+      "mobileliveaudio": {
+        "id": 2389,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2389.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      }
+    },
+    {
+      "id": 10744,
+      "name": "Fotboll: Brage-Nyköping",
+      "description": "Fotboll från division I norra. Kommentator: Ted Stöffling.",
+      "localstarttime": "\/Date(1412520300000+0200)\/",
+      "localstoptime": "\/Date(1412530200000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2390,
+        "name": "SR Extra08"
+      },
+      "liveaudio": {
+        "id": 2390,
+        "url": "http://sverigesradio.se/topsy/direkt/2390.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      },
+      "mobileliveaudio": {
+        "id": 2390,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2390.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      }
+    },
+    {
+      "id": 9855,
+      "name": "Fotboll: BK Häcken - Falkenbergs FF",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Gamla Ullevi. Kommentator Olle Tyrbo",
+      "localstarttime": "\/Date(1412522700000+0200)\/",
+      "localstoptime": "\/Date(1412533800000+0200)\/",
+      "hometeam": {
+        "id": 65,
+        "name": "BK Häcken"
+      },
+      "awayteam": {
+        "id": 36,
+        "name": "Falkenbergs FF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 56,
+        "name": "Gamla Ullevi"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 9856,
+      "name": "Fotboll: AIK - Malmö FF",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Friends Arena. Kommentator Bosse Johander.",
+      "localstarttime": "\/Date(1412522700000+0200)\/",
+      "localstoptime": "\/Date(1412533800000+0200)\/",
+      "hometeam": {
+        "id": 27,
+        "name": "AIK"
+      },
+      "awayteam": {
+        "id": 24,
+        "name": "Malmö FF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 87,
+        "name": "Friends Arena"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2387,
+        "name": "SR Extra05"
+      },
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      },
+      "mobileliveaudio": {
+        "id": 2387,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2387.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      }
+    },
+    {
+      "id": 10701,
+      "name": "Fotboll: Landskrona BoIS - Hammarby IF",
+      "description": "Hammarby jakt på allsvenskan och Landskronas jakt på nytt kontrakt med Superligan i blickpunkten på Landskrona IP. SR Malmö ger er hela matchen direkt. Kommentator: Roger Bengtsson",
+      "localstarttime": "\/Date(1412525700000+0200)\/",
+      "localstoptime": "\/Date(1412537400000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 5,
+        "name": "Superettan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 50,
+        "name": "Anne Sseruwagi"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med Fotbollsarena Radiosporten, elitserien i handboll, herrar och allsvensk ishockey. Programledare: Paul Zyra och Mats Dahlberg.",
+      "localstarttime": "\/Date(1412614980000+0200)\/",
+      "localstoptime": "\/Date(1412624400000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med basketligan, herrar. Programledare: Kenneth Range och Alexander Lundholm.",
+      "localstarttime": "\/Date(1412701380000+0200)\/",
+      "localstoptime": "\/Date(1412710800000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10806,
+      "name": "Fotboll: Husqvarna - IFK Värnamo",
+      "description": "Henrik Gustavsson och Glenn Martindahl sänder Superettan från Vapenvallen.",
+      "localstarttime": "\/Date(1412702100000+0200)\/",
+      "localstoptime": "\/Date(1412710200000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 5,
+        "name": "Superettan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 45,
+        "name": "Lars Bernfalk"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 9989,
+      "name": "Allsvenskt HockeyExtra",
+      "description": "Bevakning av kvällens matcher i hockeyallsvenskan. Programledare: Pelle Marklund.",
+      "localstarttime": "\/Date(1412786700000+0200)\/",
+      "localstoptime": "\/Date(1412798400000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med elitserien i handboll, herrar och allsvensk ishockey. Programledare: Alexander Lundholm och Kenneth Range.",
+      "localstarttime": "\/Date(1412787780000+0200)\/",
+      "localstoptime": "\/Date(1412797200000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10372,
+      "name": "Ishockey: Örebro Hockey - Skellefteå AIK",
+      "description": "SHL hockey. Radiosporten direkt från Behrn Arena. Kommentator Peter Widbark.",
+      "localstarttime": "\/Date(1412870100000+0200)\/",
+      "localstoptime": "\/Date(1412881200000+0200)\/",
+      "hometeam": {
+        "id": 110,
+        "name": "Örebro Hockey"
+      },
+      "awayteam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 22,
+        "name": "Behrn Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10374,
+      "name": "Ishockey: Växjö Lakers - Frölunda HC",
+      "description": "SHL hockey. Radiosporten direkt från Växjö. Kommentatorer Janne Gunnarsson och Peter Sundh.",
+      "localstarttime": "\/Date(1412870100000+0200)\/",
+      "localstoptime": "\/Date(1412881200000+0200)\/",
+      "hometeam": {
+        "id": 90,
+        "name": "Växjö Lakers"
+      },
+      "awayteam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 71,
+        "name": "Vida Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10375,
+      "name": "Ishockey: Leksands IF - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Leksand. Kommentator Pelle Marklund.",
+      "localstarttime": "\/Date(1412870100000+0200)\/",
+      "localstoptime": "\/Date(1412881200000+0200)\/",
+      "hometeam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 83,
+        "name": "Tegera Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10376,
+      "name": "Ishockey: Linköping HC - Luleå Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Linköping. Kommentator Bosse Ohlsson.",
+      "localstarttime": "\/Date(1412870100000+0200)\/",
+      "localstoptime": "\/Date(1412881200000+0200)\/",
+      "hometeam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "awayteam": {
+        "id": 13,
+        "name": "Luleå Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 5,
+        "name": "Saab Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2387,
+        "name": "SR Extra05"
+      },
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      },
+      "mobileliveaudio": {
+        "id": 2387,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2387.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med svenska hockeyligan, handboll, Champions League, herrar och kval till fotbolls-EM, herrar, Sverige-Ryssland (Christian Olsson och Ralf Edström). Programledare: Roger Burman, Dag Malmqvist och Petra Svensson.",
+      "localstarttime": "\/Date(1412870400000+0200)\/",
+      "localstoptime": "\/Date(1412889300000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10373,
+      "name": "Ishockey: Djurgården Hockey - MODO Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Hovet. Kommentator Otto Marand.",
+      "localstarttime": "\/Date(1412873700000+0200)\/",
+      "localstoptime": "\/Date(1412881200000+0200)\/",
+      "hometeam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "awayteam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 11,
+        "name": "Hovet"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10377,
+      "name": "Ishockey: Brynäs IF - Färjestad BK",
+      "description": "SHL hockey. Radiosporten direkt från Gävle. Kommentator Magnus Englund.",
+      "localstarttime": "\/Date(1412960100000+0200)\/",
+      "localstoptime": "\/Date(1412971200000+0200)\/",
+      "hometeam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "awayteam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 8,
+        "name": "Gavlerinken Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10790,
+      "name": "Allsvenskt HockeyExtra",
+      "description": "Bevakning av kvällens matcher i hockeyallsvenskan. Programledare Roger Bengtsson",
+      "localstarttime": "\/Date(1412960400000+0200)\/",
+      "localstoptime": "\/Date(1412972100000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med superligan i innebandy, herrar och svenska hockeyligan. Programledare: Roger Burman och Lena  Sundqvist.",
+      "localstarttime": "\/Date(1413032580000+0200)\/",
+      "localstoptime": "\/Date(1413045000000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10378,
+      "name": "Ishockey: Frölunda HC - Linköping HC",
+      "description": "SHL hockey. Radiosporten direkt från Scandinavium. Kommentator Richard Hermansson.",
+      "localstarttime": "\/Date(1413035700000+0200)\/",
+      "localstoptime": "\/Date(1413046800000+0200)\/",
+      "hometeam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "awayteam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 13,
+        "name": "Scandinavium"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10379,
+      "name": "Ishockey: Skellefteå AIK - Djurgården Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Skellefteå. Kommentator Mikael Winterkvist.",
+      "localstarttime": "\/Date(1413035700000+0200)\/",
+      "localstoptime": "\/Date(1413046800000+0200)\/",
+      "hometeam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "awayteam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 12,
+        "name": "Skellefteå Kraft Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10380,
+      "name": "Ishockey: MODO Hockey - Luleå Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Örnsköldsvik. Kommentator Carl-Johan Höiby",
+      "localstarttime": "\/Date(1413035700000+0200)\/",
+      "localstoptime": "\/Date(1413046800000+0200)\/",
+      "hometeam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "awayteam": {
+        "id": 13,
+        "name": "Luleå Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 63,
+        "name": "Fjällräven Center"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10807,
+      "name": "Innebandy: Mullsjö - Sirius",
+      "description": "Henrik Gustavsson kommenterar Superligan från Nyhemshallen.",
+      "localstarttime": "\/Date(1413036000000+0200)\/",
+      "localstoptime": "\/Date(1413045000000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 45,
+        "name": "Lars Bernfalk"
+      },
+      "channel": {
+        "id": 2389,
+        "name": "SR Extra07"
+      },
+      "liveaudio": {
+        "id": 2389,
+        "url": "http://sverigesradio.se/topsy/direkt/2389.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      },
+      "mobileliveaudio": {
+        "id": 2389,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2389.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      }
+    },
+    {
+      "id": 10381,
+      "name": "Ishockey: Örebro Hockey - Färjestad BK",
+      "description": "SHL hockey. Radiosporten direkt från Behrn Arena. Kommentator Peter Widbark.",
+      "localstarttime": "\/Date(1413044700000+0200)\/",
+      "localstoptime": "\/Date(1413055800000+0200)\/",
+      "hometeam": {
+        "id": 110,
+        "name": "Örebro Hockey"
+      },
+      "awayteam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 22,
+        "name": "Behrn Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10382,
+      "name": "Ishockey: Växjö Lakers - Leksands IF",
+      "description": "SHL hockey. Radiosporten direkt från Växjö. Kommentatorer Mikael Wahlberg och Peter Sundh",
+      "localstarttime": "\/Date(1413044700000+0200)\/",
+      "localstoptime": "\/Date(1413055800000+0200)\/",
+      "hometeam": {
+        "id": 90,
+        "name": "Växjö Lakers"
+      },
+      "awayteam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 71,
+        "name": "Vida Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2387,
+        "name": "SR Extra05"
+      },
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      },
+      "mobileliveaudio": {
+        "id": 2387,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2387.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      }
+    },
+    {
+      "id": 10383,
+      "name": "Ishockey: HV71 - Brynäs IF",
+      "description": "SHL hockey. Radiosporten direkt från Jönköping. Kommentatorer Patrik Bromander och Peter Eriksson.",
+      "localstarttime": "\/Date(1413044700000+0200)\/",
+      "localstoptime": "\/Date(1413055800000+0200)\/",
+      "hometeam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "awayteam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 3,
+        "name": "Kinnarps Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med basketligan, damer och superligan i innebandy, herrar. Programledare: Lena Sundqvist, Magnus Wahlman och David Hjorter.",
+      "localstarttime": "\/Date(1413118980000+0200)\/",
+      "localstoptime": "\/Date(1413135000000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med kval till fotbolls-EM, herrar, Sverige-Lichtenstein (kommentatorer: Dag Malmqvist och Ralf Edström). Programledare: Roger Burman och Gustav Landmark.",
+      "localstarttime": "\/Date(1413138600000+0200)\/",
+      "localstoptime": "\/Date(1413147600000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med Fotbollsarena Radiosporten. Programledare: Mats Dahlberg och Paul Zyra.",
+      "localstarttime": "\/Date(1413219780000+0200)\/",
+      "localstoptime": "\/Date(1413229200000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 9990,
+      "name": "Allsvenskt HockeyExtra",
+      "description": "Bevakning av kvällens matcher i hockeyallsvenskan. Programledare: Jakob Fahlstedt.",
+      "localstarttime": "\/Date(1413305100000+0200)\/",
+      "localstoptime": "\/Date(1413316800000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10757,
+      "name": "Ishockey: Karlskrona – Södertälje",
+      "description": "Kommentatorer: Jens Svendsen och Hans Ottinger",
+      "localstarttime": "\/Date(1413306000000+0200)\/",
+      "localstoptime": "\/Date(1413316800000+0200)\/",
+      "hometeam": {
+        "id": 104,
+        "name": "Karlskrona HK"
+      },
+      "awayteam": {
+        "id": 107,
+        "name": "Södertälje SK"
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 33,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 82,
+        "name": "Telenor Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 59,
+        "name": "Peppe Alfiero"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med basketligan, herrar. Programledare: Dag Malmqvist och Linn Nenzén.",
+      "localstarttime": "\/Date(1413306180000+0200)\/",
+      "localstoptime": "\/Date(1413315600000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10768,
+      "name": "Innebandy: Växjö IBK-FC Helsingborg",
+      "description": "Växjö IBK möter FC Helsingborg i superligan.\r\nKommentator: Jonatan Bergman",
+      "localstarttime": "\/Date(1413392100000+0200)\/",
+      "localstoptime": "\/Date(1413402300000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 30,
+        "name": "Ulf Myrestam"
+      },
+      "channel": {
+        "id": 2387,
+        "name": "SR Extra05"
+      },
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      },
+      "mobileliveaudio": {
+        "id": 2387,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2387.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      }
+    },
+    {
+      "id": 10384,
+      "name": "Ishockey: Brynäs IF - Örebro Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Gävle. Kommentator Magnus Englund.",
+      "localstarttime": "\/Date(1413392100000+0200)\/",
+      "localstoptime": "\/Date(1413403200000+0200)\/",
+      "hometeam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "awayteam": {
+        "id": 110,
+        "name": "Örebro Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 8,
+        "name": "Gavlerinken Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10385,
+      "name": "Ishockey: Färjestad BK - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Karlstad. Kommentatorer Jonas Ekström och Håkan Nordin.",
+      "localstarttime": "\/Date(1413392100000+0200)\/",
+      "localstoptime": "\/Date(1413403200000+0200)\/",
+      "hometeam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 15,
+        "name": "Löfbergs Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10386,
+      "name": "Ishockey: Linköping HC - MODO Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Linköping. Kommentator Sebastian Ekström.",
+      "localstarttime": "\/Date(1413392100000+0200)\/",
+      "localstoptime": "\/Date(1413403200000+0200)\/",
+      "hometeam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "awayteam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 5,
+        "name": "Saab Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10387,
+      "name": "Ishockey: Skellefteå AIK - Växjö Lakers",
+      "description": "SHL hockey. Radiosporten direkt från Skellefteå. Kommentator Sofie Strandberg.",
+      "localstarttime": "\/Date(1413392100000+0200)\/",
+      "localstoptime": "\/Date(1413403200000+0200)\/",
+      "hometeam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "awayteam": {
+        "id": 90,
+        "name": "Växjö Lakers"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 12,
+        "name": "Skellefteå Kraft Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med elitserien i handboll, damer och svenska hockeyligan. Programledare: Linn Nenzén och Dag Malmqvist.",
+      "localstarttime": "\/Date(1413392580000+0200)\/",
+      "localstoptime": "\/Date(1413402000000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 9991,
+      "name": "Allsvenskt HockeyExtra",
+      "description": "Bevakning av kvällens matcher i hockeyallsvenskan. Programledare: Pelle Marklund.",
+      "localstarttime": "\/Date(1413477900000+0200)\/",
+      "localstoptime": "\/Date(1413489600000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med svenska hockeyligan, tennis, Stockholm Open och elitserien i volleyboll, damer. Programledare: Roger Burman och Alexander Lundholm.",
+      "localstarttime": "\/Date(1413477900000+0200)\/",
+      "localstoptime": "\/Date(1413488400000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10389,
+      "name": "Ishockey: Leksands IF - Frölunda HC",
+      "description": "SHL hockey. Radiosporten direkt från Leksand. Kommentator Ted Stöffling.",
+      "localstarttime": "\/Date(1413478500000+0200)\/",
+      "localstoptime": "\/Date(1413489600000+0200)\/",
+      "hometeam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "awayteam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 83,
+        "name": "Tegera Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10390,
+      "name": "Ishockey: HV71 - Växjö Lakers",
+      "description": "SHL hockey. Radiosporten direkt från Jönköping. Kommentatorer Patrik Bromander och Peter Eriksson.",
+      "localstarttime": "\/Date(1413564900000+0200)\/",
+      "localstoptime": "\/Date(1413576000000+0200)\/",
+      "hometeam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "awayteam": {
+        "id": 90,
+        "name": "Växjö Lakers"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 3,
+        "name": "Kinnarps Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med allsvensk fotboll, svenska hockeyligan och tennis, Stockholm Open. Programledare: Susanna Andrén och Alexander Lundholm.",
+      "localstarttime": "\/Date(1413637380000+0200)\/",
+      "localstoptime": "\/Date(1413649800000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10391,
+      "name": "Ishockey: Örebro Hockey - Leksands IF",
+      "description": "SHL hockey. Radiosporten direkt från Behrn Arena. Kommentator Peter Widbark.",
+      "localstarttime": "\/Date(1413640500000+0200)\/",
+      "localstoptime": "\/Date(1413651600000+0200)\/",
+      "hometeam": {
+        "id": 110,
+        "name": "Örebro Hockey"
+      },
+      "awayteam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 22,
+        "name": "Behrn Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10392,
+      "name": "Ishockey: Färjestad BK - Skellefteå AIK",
+      "description": "SHL hockey. Radiosporten direkt från Karlstad. Kommentatorer Eric Ceder och Jan Ingman",
+      "localstarttime": "\/Date(1413640500000+0200)\/",
+      "localstoptime": "\/Date(1413651600000+0200)\/",
+      "hometeam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "awayteam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 15,
+        "name": "Löfbergs Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10393,
+      "name": "Ishockey: Djurgården Hockey - Linköping HC",
+      "description": "SHL hockey. Radiosporten direkt från Hovet. Kommentator Otto Marand.",
+      "localstarttime": "\/Date(1413640500000+0200)\/",
+      "localstoptime": "\/Date(1413651600000+0200)\/",
+      "hometeam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "awayteam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 11,
+        "name": "Hovet"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2387,
+        "name": "SR Extra05"
+      },
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      },
+      "mobileliveaudio": {
+        "id": 2387,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2387.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      }
+    },
+    {
+      "id": 9858,
+      "name": "Fotboll: Åtvidabergs FF - Mjällby AIF",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Kopparvallen. Kommentator Bosse Ohlsson.",
+      "localstarttime": "\/Date(1413640500000+0200)\/",
+      "localstoptime": "\/Date(1413651600000+0200)\/",
+      "hometeam": {
+        "id": 31,
+        "name": "Åtvidabergs FF"
+      },
+      "awayteam": {
+        "id": 91,
+        "name": "Mjällby AIF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 32,
+        "name": "Kopparvallen"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10783,
+      "name": "Ishockey: Karlskrona – Oskarshamn",
+      "description": "Kommentatorer: Jens Svendsen och Hans Ottinger.",
+      "localstarttime": "\/Date(1413640500000+0200)\/",
+      "localstoptime": "\/Date(1413651600000+0200)\/",
+      "hometeam": {
+        "id": 104,
+        "name": "Karlskrona HK"
+      },
+      "awayteam": {
+        "id": 103,
+        "name": "IK Oskarshamn"
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 33,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 82,
+        "name": "Telenor Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 59,
+        "name": "Peppe Alfiero"
+      },
+      "channel": {
+        "id": 2390,
+        "name": "SR Extra08"
+      },
+      "liveaudio": {
+        "id": 2390,
+        "url": "http://sverigesradio.se/topsy/direkt/2390.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      },
+      "mobileliveaudio": {
+        "id": 2390,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2390.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      }
+    },
+    {
+      "id": 10394,
+      "name": "Ishockey: MODO Hockey - Brynäs IF",
+      "description": "SHL hockey. Radiosporten direkt från Örnsköldsvik. Kommentator Martin Palm.",
+      "localstarttime": "\/Date(1413649500000+0200)\/",
+      "localstoptime": "\/Date(1413660600000+0200)\/",
+      "hometeam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "awayteam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 63,
+        "name": "Fjällräven Center"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    },
+    {
+      "id": 10395,
+      "name": "Ishockey: Frölunda HC - Luleå Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Scandinavium. Kommentator Tomas Bader.",
+      "localstarttime": "\/Date(1413649500000+0200)\/",
+      "localstoptime": "\/Date(1413660600000+0200)\/",
+      "hometeam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "awayteam": {
+        "id": 13,
+        "name": "Luleå Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 13,
+        "name": "Scandinavium"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2389,
+        "name": "SR Extra07"
+      },
+      "liveaudio": {
+        "id": 2389,
+        "url": "http://sverigesradio.se/topsy/direkt/2389.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      },
+      "mobileliveaudio": {
+        "id": 2389,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2389.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      }
+    },
+    {
+      "id": 9861,
+      "name": "Fotboll: IFK Göteborg - BK Häcken",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Gamla Ullevi. Kommentator Olle Tyrbo.",
+      "localstarttime": "\/Date(1413723300000+0200)\/",
+      "localstoptime": "\/Date(1413730800000+0200)\/",
+      "hometeam": {
+        "id": 16,
+        "name": "IFK Göteborg"
+      },
+      "awayteam": {
+        "id": 65,
+        "name": "BK Häcken"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 56,
+        "name": "Gamla Ullevi"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med damallsvensk fotboll, sista omgången, allsvensk fotboll, internationell fotboll, superligan i innebandy, herrar och tennis, Stockholm Open. Programledare: Kenneth Range, Alexander Lundholm och Petra Svensson.",
+      "localstarttime": "\/Date(1413723780000+0200)\/",
+      "localstoptime": "\/Date(1413739800000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 9860,
+      "name": "Fotboll: Gefle IF - IFK Norrköping FK",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Strömvallen. Kommentator Magnus Englund.",
+      "localstarttime": "\/Date(1413732300000+0200)\/",
+      "localstoptime": "\/Date(1413745200000+0200)\/",
+      "hometeam": {
+        "id": 116,
+        "name": "Gefle IF FF"
+      },
+      "awayteam": {
+        "id": 26,
+        "name": "IFK Norrköping FK"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 25,
+        "name": "Strömvallen"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 9859,
+      "name": "Fotboll: IF Brommapojkarna - AIK",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Stockholms Arenan. Kommentator Björn Hansén.",
+      "localstarttime": "\/Date(1413735900000+0200)\/",
+      "localstoptime": "\/Date(1413745200000+0200)\/",
+      "hometeam": {
+        "id": 66,
+        "name": "IF Brommapojkarna"
+      },
+      "awayteam": {
+        "id": 27,
+        "name": "AIK"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 46,
+        "name": "Grimsta IP"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10804,
+      "name": "Fotboll: Östers IF-GAIS",
+      "description": "Östers IF och GAIS möts i superettan. Kommentator: Håkan Eng",
+      "localstarttime": "\/Date(1413735900000+0200)\/",
+      "localstoptime": "\/Date(1413743400000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 30,
+        "name": "Ulf Myrestam"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 9862,
+      "name": "Fotboll: Falkenbergs FF - Helsingborgs IF",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Falkenbergs IP. Kommentator Patric Ljunggren",
+      "localstarttime": "\/Date(1413824100000+0200)\/",
+      "localstoptime": "\/Date(1413835200000+0200)\/",
+      "hometeam": {
+        "id": 36,
+        "name": "Falkenbergs FF"
+      },
+      "awayteam": {
+        "id": 18,
+        "name": "Helsingborgs IF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 38,
+        "name": "Falkenbergs IP"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 9863,
+      "name": "Fotboll: Djurgården - Örebro",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Stockholms Arenan. Kommentator Bosse Johander.",
+      "localstarttime": "\/Date(1413824100000+0200)\/",
+      "localstoptime": "\/Date(1413835200000+0200)\/",
+      "hometeam": {
+        "id": 14,
+        "name": "Djurgården"
+      },
+      "awayteam": {
+        "id": 23,
+        "name": "Örebro"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 91,
+        "name": "Tele2 Arena"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med Fotbollsarena Radiosporten, allsvensk fotboll, elitserien i handboll, herrar och allsvensk ishockey. Programledare: Roger Burman och Bengt Skött.",
+      "localstarttime": "\/Date(1413824580000+0200)\/",
+      "localstoptime": "\/Date(1413834000000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10396,
+      "name": "Ishockey: Brynäs IF - Skellefteå AIK",
+      "description": "SHL hockey. Radiosporten direkt från Gävle. Kommentator Magnus Englund.",
+      "localstarttime": "\/Date(1413910500000+0200)\/",
+      "localstoptime": "\/Date(1413921600000+0200)\/",
+      "hometeam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "awayteam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 8,
+        "name": "Gavlerinken Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10397,
+      "name": "Ishockey: Växjö Lakers - Linköping HC",
+      "description": "SHL hockey. Radiosporten direkt från Växjö. Kommentatorer Håkan Eng och Mike Zanier.",
+      "localstarttime": "\/Date(1413910500000+0200)\/",
+      "localstoptime": "\/Date(1413921600000+0200)\/",
+      "hometeam": {
+        "id": 90,
+        "name": "Växjö Lakers"
+      },
+      "awayteam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 71,
+        "name": "Vida Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10398,
+      "name": "Ishockey: HV71 - Leksands IF",
+      "description": "SHL hockey. Radiosporten direkt från Jönköping. Kommentatorer Patrik Bromander och Peter Eriksson.",
+      "localstarttime": "\/Date(1413910500000+0200)\/",
+      "localstoptime": "\/Date(1413921600000+0200)\/",
+      "hometeam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "awayteam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 3,
+        "name": "Kinnarps Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med innebandy, superligan, herrar, svenska hockeyligan, allsvensk ishockey och fotboll, Champions League. Programledare: Bengt Skött och Roger Burman.",
+      "localstarttime": "\/Date(1413910980000+0200)\/",
+      "localstoptime": "\/Date(1413920400000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10400,
+      "name": "Ishockey: MODO Hockey - Färjestad BK",
+      "description": "SHL hockey. Radiosporten direkt från Örnsköldsvik. Kommentator Martin Palm.",
+      "localstarttime": "\/Date(1413996900000+0200)\/",
+      "localstoptime": "\/Date(1414008000000+0200)\/",
+      "hometeam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "awayteam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 63,
+        "name": "Fjällräven Center"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10401,
+      "name": "Ishockey: Djurgården Hockey - Frölunda HC",
+      "description": "SHL- hockey. Radiosporten direkt från Hovet. Kommentator Otto Marand",
+      "localstarttime": "\/Date(1413996900000+0200)\/",
+      "localstoptime": "\/Date(1414008000000+0200)\/",
+      "hometeam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "awayteam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 11,
+        "name": "Hovet"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10769,
+      "name": "Innebandy: Växjö IBK-Mullsjö AIS",
+      "description": "Växjö IBK möter Mullsjö i superligan. Kommentator: Jonatan Bergman",
+      "localstarttime": "\/Date(1413996900000+0200)\/",
+      "localstoptime": "\/Date(1414007100000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 30,
+        "name": "Ulf Myrestam"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med elitserien i handboll, damer, svenska hockeyligan och fotboll, Champions League, Ateltico Madrid-Malmö FF. Programledare: Linn Nenzén och Dag Malmqvist.",
+      "localstarttime": "\/Date(1413997380000+0200)\/",
+      "localstoptime": "\/Date(1414011600000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": -1,
+      "name": "Sportextra",
+      "description": "med svenska hockeyligan. Programledare: Dag Malmqvist och Kenneth Range.",
+      "localstarttime": "\/Date(1414082700000+0200)\/",
+      "localstoptime": "\/Date(1414093200000+0200)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 0
+      },
+      "channel": {
+        "id": 179,
+        "name": "P4 Radiosporten"
+      },
+      "liveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      },
+      "mobileliveaudio": {
+        "id": 179,
+        "statkey": "/app/direkt/p4 radiosporten[k(179)]"
+      }
+    },
+    {
+      "id": 10402,
+      "name": "Ishockey: Skellefteå AIK - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Skellefteå. Kommentator Mikael Winterkvist.",
+      "localstarttime": "\/Date(1414083300000+0200)\/",
+      "localstoptime": "\/Date(1414094400000+0200)\/",
+      "hometeam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 12,
+        "name": "Skellefteå Kraft Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10404,
+      "name": "Ishockey: Linköping HC - Brynäs IF",
+      "description": "SHL hockey. Radisporten direkt från Linköping. Kommentator Bosse Ohlsson.",
+      "localstarttime": "\/Date(1414083300000+0200)\/",
+      "localstoptime": "\/Date(1414094400000+0200)\/",
+      "hometeam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "awayteam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 5,
+        "name": "Saab Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10408,
+      "name": "Ishockey: Skellefteå AIK - Leksands IF",
+      "description": "SHL hockey. radiosporten direkt från Skellefteå. Kommentator Sofie Strandberg.",
+      "localstarttime": "\/Date(1414245300000+0200)\/",
+      "localstoptime": "\/Date(1414256400000+0200)\/",
+      "hometeam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "awayteam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 12,
+        "name": "Skellefteå Kraft Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10409,
+      "name": "Ishockey: MODO Hockey - Frölunda HC",
+      "description": "SHL hockey. Radiosporten direkt från Örnsköldsvik. Kommentator Carl-Johan Höiby.",
+      "localstarttime": "\/Date(1414245300000+0200)\/",
+      "localstoptime": "\/Date(1414256400000+0200)\/",
+      "hometeam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "awayteam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 63,
+        "name": "Fjällräven Center"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10410,
+      "name": "Ishockey: Brynäs IF - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Gävle. Kommentator Magnus Englund.",
+      "localstarttime": "\/Date(1414245300000+0200)\/",
+      "localstoptime": "\/Date(1414256400000+0200)\/",
+      "hometeam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 8,
+        "name": "Gavlerinken Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10411,
+      "name": "Ishockey: Djurgården Hockey - Luleå Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Hovet. Kommentator Otto Marand.",
+      "localstarttime": "\/Date(1414245300000+0200)\/",
+      "localstoptime": "\/Date(1414256400000+0200)\/",
+      "hometeam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "awayteam": {
+        "id": 13,
+        "name": "Luleå Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 11,
+        "name": "Hovet"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 9870,
+      "name": "Fotboll: BK Häcken - Gefle IF FF",
+      "description": "Allsvenskan i fotbol. Radiosporten direkt från Gamla Ullevi. Kommentator Tomas Bader.",
+      "localstarttime": "\/Date(1414245300000+0200)\/",
+      "localstoptime": "\/Date(1414252800000+0200)\/",
+      "hometeam": {
+        "id": 65,
+        "name": "BK Häcken"
+      },
+      "awayteam": {
+        "id": 116,
+        "name": "Gefle IF FF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 56,
+        "name": "Gamla Ullevi"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2389,
+        "name": "SR Extra07"
+      },
+      "liveaudio": {
+        "id": 2389,
+        "url": "http://sverigesradio.se/topsy/direkt/2389.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      },
+      "mobileliveaudio": {
+        "id": 2389,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2389.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2389)]"
+      }
+    },
+    {
+      "id": 10784,
+      "name": "Ishockey: Karlskrona – Rögle",
+      "description": "Kommentatorer: Oscar Anderberg och Hans Ottinger.",
+      "localstarttime": "\/Date(1414245300000+0200)\/",
+      "localstoptime": "\/Date(1414256400000+0200)\/",
+      "hometeam": {
+        "id": 104,
+        "name": "Karlskrona HK"
+      },
+      "awayteam": {
+        "id": 61,
+        "name": "Rögle BK"
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 33,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 82,
+        "name": "Telenor Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 59,
+        "name": "Peppe Alfiero"
+      },
+      "channel": {
+        "id": 2390,
+        "name": "SR Extra08"
+      },
+      "liveaudio": {
+        "id": 2390,
+        "url": "http://sverigesradio.se/topsy/direkt/2390.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      },
+      "mobileliveaudio": {
+        "id": 2390,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2390.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      }
+    },
+    {
+      "id": 9871,
+      "name": "Fotboll: IFK Norrköping FK - Örebro",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Norrköping. Kommentator Bosse Ohlsson.",
+      "localstarttime": "\/Date(1414331700000+0100)\/",
+      "localstoptime": "\/Date(1414339200000+0100)\/",
+      "hometeam": {
+        "id": 26,
+        "name": "IFK Norrköping FK"
+      },
+      "awayteam": {
+        "id": 23,
+        "name": "Örebro"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 16,
+        "name": "Nya parken"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 9872,
+      "name": "Fotboll: AIK - Åtvidabergs FF",
+      "description": "Allsvenskan i fotboll. Radiosporten direkt från Friends Arena. Kommentator Bosse Johander.",
+      "localstarttime": "\/Date(1414331700000+0100)\/",
+      "localstoptime": "\/Date(1414339200000+0100)\/",
+      "hometeam": {
+        "id": 27,
+        "name": "AIK"
+      },
+      "awayteam": {
+        "id": 31,
+        "name": "Åtvidabergs FF"
+      },
+      "league": {
+        "id": 3,
+        "name": "Allsvenskan, herrar"
+      },
+      "season": {
+        "id": 31,
+        "name": "2014"
+      },
+      "arena": {
+        "id": 87,
+        "name": "Friends Arena"
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10808,
+      "name": "Fotboll: Sirius-GIF Sundsvall",
+      "description": "Säsongens sista hemmamatch för Sirius i Superettan. För motståndet står topplaget GIF Sundsvall. Kommentator: Christer Andersson.",
+      "localstarttime": "\/Date(1414433940000+0100)\/",
+      "localstoptime": "\/Date(1414441800000+0100)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 5,
+        "name": "Superettan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 15,
+        "name": "Fotboll"
+      },
+      "publisher": {
+        "id": 2,
+        "name": "Andreas Miller"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10415,
+      "name": "Ishockey: MODO Hockey - Skellefteå AIK",
+      "description": "SHL hockey. Radiosporten direkt från Örnsköldsvik. Kommentator Martin Palm.",
+      "localstarttime": "\/Date(1414518900000+0100)\/",
+      "localstoptime": "\/Date(1414530000000+0100)\/",
+      "hometeam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "awayteam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 63,
+        "name": "Fjällräven Center"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10419,
+      "name": "Ishockey: Frölunda HC - Färjestad BK",
+      "description": "SHL hockey. Radiosporten direkt från Scandinavium. Kommentator Olle Tyrbo.",
+      "localstarttime": "\/Date(1414518900000+0100)\/",
+      "localstoptime": "\/Date(1414530000000+0100)\/",
+      "hometeam": {
+        "id": 3,
+        "name": "Frölunda HC"
+      },
+      "awayteam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 13,
+        "name": "Scandinavium"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    },
+    {
+      "id": 10791,
+      "name": "Allsvenskt HockeyExtra",
+      "description": "Bevakning av kvällens matcher i hockeyallsvenskan. Programledare Roger Bengtsson",
+      "localstarttime": "\/Date(1414519200000+0100)\/",
+      "localstoptime": "\/Date(1414530900000+0100)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2390,
+        "name": "SR Extra08"
+      },
+      "liveaudio": {
+        "id": 2390,
+        "url": "http://sverigesradio.se/topsy/direkt/2390.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      },
+      "mobileliveaudio": {
+        "id": 2390,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2390.sdp",
+        "statkey": "/app/direkt/digitala medier[k(2390)]"
+      }
+    },
+    {
+      "id": 9993,
+      "name": "Allsvenskt HockeyExtra",
+      "description": "Bevakning av kvällens matcher i hockeyallsvenskan. Programledare: Pelle Marklund.",
+      "localstarttime": "\/Date(1414691100000+0100)\/",
+      "localstoptime": "\/Date(1414702800000+0100)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 7,
+        "name": "HockeyAllsvenskan"
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 58,
+        "name": "Anna Gullberg"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10431,
+      "name": "Ishockey: Djurgården Hockey - Örebro Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Hovet. Kommentator Otto Marand.",
+      "localstarttime": "\/Date(1414853700000+0100)\/",
+      "localstoptime": "\/Date(1414864800000+0100)\/",
+      "hometeam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "awayteam": {
+        "id": 110,
+        "name": "Örebro Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 11,
+        "name": "Hovet"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    },
+    {
+      "id": 9965,
+      "name": "Fotboll: Hammarby - Jönköpings Södra",
+      "description": "Superettan i fotboll. Radiosporten direkt från Stockholms Arenan. Kommentator Björn Hansén.",
+      "localstarttime": "\/Date(1414936500000+0100)\/",
+      "localstoptime": "\/Date(1414944000000+0100)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 61,
+        "name": "Lotta Mossberg"
+      },
+      "channel": {
+        "id": 3268,
+        "name": "SR Extra09"
+      },
+      "liveaudio": {
+        "id": 3268,
+        "url": "http://sverigesradio.se/topsy/direkt/3268.rtmp",
+        "statkey": "/app/direkt/digitala medier[k(3268)]"
+      },
+      "mobileliveaudio": {
+        "id": 3268,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/3268.sdp",
+        "statkey": "/app/direkt/digitala medier[k(3268)]"
+      }
+    },
+    {
+      "id": 10805,
+      "name": "Fotboll: Östers IF-Degerfors",
+      "description": "Östers IF och Degerfors möts i den sista omgången av superettan. Kommentator: Jonatan Bergman",
+      "localstarttime": "\/Date(1414936500000+0100)\/",
+      "localstoptime": "\/Date(1414945800000+0100)\/",
+      "hometeam": {
+        "id": 0
+      },
+      "awayteam": {
+        "id": 0
+      },
+      "league": {
+        "id": 0
+      },
+      "season": {
+        "id": 0
+      },
+      "arena": {
+        "id": 0
+      },
+      "sport": {
+        "id": 0
+      },
+      "publisher": {
+        "id": 30,
+        "name": "Ulf Myrestam"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10435,
+      "name": "Ishockey: MODO Hockey - Djurgården Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Örnsköldsvik. Kommentator Martin Palm.",
+      "localstarttime": "\/Date(1415901300000+0100)\/",
+      "localstoptime": "\/Date(1415912400000+0100)\/",
+      "hometeam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "awayteam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 63,
+        "name": "Fjällräven Center"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10478,
+      "name": "Ishockey: Linköping HC - Djurgården Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Linköping. Kommentator Bosse Ohlsson",
+      "localstarttime": "\/Date(1417281900000+0100)\/",
+      "localstoptime": "\/Date(1417293000000+0100)\/",
+      "hometeam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "awayteam": {
+        "id": 88,
+        "name": "Djurgården Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 5,
+        "name": "Saab Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2387,
+        "name": "SR Extra05"
+      },
+      "liveaudio": {
+        "id": 2387,
+        "url": "http://sverigesradio.se/topsy/direkt/2387.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      },
+      "mobileliveaudio": {
+        "id": 2387,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2387.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2387)]"
+      }
+    },
+    {
+      "id": 10503,
+      "name": "Ishockey: Linköping HC - MODO Hockey",
+      "description": "SHL hockey. Radiosporten direkt från Linköping. Kommentator Nicklas Pettersson.",
+      "localstarttime": "\/Date(1418491500000+0100)\/",
+      "localstoptime": "\/Date(1418502600000+0100)\/",
+      "hometeam": {
+        "id": 6,
+        "name": "Linköping HC"
+      },
+      "awayteam": {
+        "id": 85,
+        "name": "MODO Hockey"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 5,
+        "name": "Saab Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    }
+  ]
+}
