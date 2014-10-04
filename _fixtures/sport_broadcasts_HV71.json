@@ -1,0 +1,397 @@
+{
+  "copyright": "Copyright Sveriges Radio 2014. All rights reserved.",
+  "broadcasts": [
+    {
+      "id": 10366,
+      "name": "Ishockey: Luleå Hockey - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Luleå. Kommentator David Zimmer",
+      "localstarttime": "\/Date(1412430900000+0200)\/",
+      "localstoptime": "\/Date(1412442000000+0200)\/",
+      "hometeam": {
+        "id": 13,
+        "name": "Luleå Hockey"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 92,
+        "name": "Coop Norrbotten Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10375,
+      "name": "Ishockey: Leksands IF - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Leksand. Kommentator Pelle Marklund.",
+      "localstarttime": "\/Date(1412870100000+0200)\/",
+      "localstoptime": "\/Date(1412881200000+0200)\/",
+      "hometeam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 83,
+        "name": "Tegera Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2386,
+        "name": "SR Extra04"
+      },
+      "liveaudio": {
+        "id": 2386,
+        "url": "http://sverigesradio.se/topsy/direkt/2386.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      },
+      "mobileliveaudio": {
+        "id": 2386,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2386.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2386)]"
+      }
+    },
+    {
+      "id": 10383,
+      "name": "Ishockey: HV71 - Brynäs IF",
+      "description": "SHL hockey. Radiosporten direkt från Jönköping. Kommentatorer Patrik Bromander och Peter Eriksson.",
+      "localstarttime": "\/Date(1413044700000+0200)\/",
+      "localstoptime": "\/Date(1413055800000+0200)\/",
+      "hometeam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "awayteam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 3,
+        "name": "Kinnarps Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 40,
+        "name": "Jakob Sillén"
+      },
+      "channel": {
+        "id": 2388,
+        "name": "SR Extra06"
+      },
+      "liveaudio": {
+        "id": 2388,
+        "url": "http://sverigesradio.se/topsy/direkt/2388.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      },
+      "mobileliveaudio": {
+        "id": 2388,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2388.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2388)]"
+      }
+    },
+    {
+      "id": 10385,
+      "name": "Ishockey: Färjestad BK - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Karlstad. Kommentatorer Jonas Ekström och Håkan Nordin.",
+      "localstarttime": "\/Date(1413392100000+0200)\/",
+      "localstoptime": "\/Date(1413403200000+0200)\/",
+      "hometeam": {
+        "id": 12,
+        "name": "Färjestad BK"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 15,
+        "name": "Löfbergs Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2384,
+        "name": "SR Extra02"
+      },
+      "liveaudio": {
+        "id": 2384,
+        "url": "http://sverigesradio.se/topsy/direkt/2384.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      },
+      "mobileliveaudio": {
+        "id": 2384,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2384.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2384)]"
+      }
+    },
+    {
+      "id": 10390,
+      "name": "Ishockey: HV71 - Växjö Lakers",
+      "description": "SHL hockey. Radiosporten direkt från Jönköping. Kommentatorer Patrik Bromander och Peter Eriksson.",
+      "localstarttime": "\/Date(1413564900000+0200)\/",
+      "localstoptime": "\/Date(1413576000000+0200)\/",
+      "hometeam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "awayteam": {
+        "id": 90,
+        "name": "Växjö Lakers"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 3,
+        "name": "Kinnarps Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10398,
+      "name": "Ishockey: HV71 - Leksands IF",
+      "description": "SHL hockey. Radiosporten direkt från Jönköping. Kommentatorer Patrik Bromander och Peter Eriksson.",
+      "localstarttime": "\/Date(1413910500000+0200)\/",
+      "localstoptime": "\/Date(1413921600000+0200)\/",
+      "hometeam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "awayteam": {
+        "id": 105,
+        "name": "Leksands IF"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 3,
+        "name": "Kinnarps Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    },
+    {
+      "id": 10402,
+      "name": "Ishockey: Skellefteå AIK - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Skellefteå. Kommentator Mikael Winterkvist.",
+      "localstarttime": "\/Date(1414083300000+0200)\/",
+      "localstoptime": "\/Date(1414094400000+0200)\/",
+      "hometeam": {
+        "id": 10,
+        "name": "Skellefteå AIK"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 12,
+        "name": "Skellefteå Kraft Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2383,
+        "name": "SR Extra01"
+      },
+      "liveaudio": {
+        "id": 2383,
+        "url": "http://sverigesradio.se/topsy/direkt/2383.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      },
+      "mobileliveaudio": {
+        "id": 2383,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2383.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2383)]"
+      }
+    },
+    {
+      "id": 10410,
+      "name": "Ishockey: Brynäs IF - HV71",
+      "description": "SHL hockey. Radiosporten direkt från Gävle. Kommentator Magnus Englund.",
+      "localstarttime": "\/Date(1414245300000+0200)\/",
+      "localstoptime": "\/Date(1414256400000+0200)\/",
+      "hometeam": {
+        "id": 7,
+        "name": "Brynäs IF"
+      },
+      "awayteam": {
+        "id": 2,
+        "name": "HV71"
+      },
+      "league": {
+        "id": 2,
+        "name": "SHL"
+      },
+      "season": {
+        "id": 32,
+        "name": "2014/2015"
+      },
+      "arena": {
+        "id": 8,
+        "name": "Gavlerinken Arena"
+      },
+      "sport": {
+        "id": 14,
+        "name": "Ishockey"
+      },
+      "publisher": {
+        "id": 13,
+        "name": "Marcus Boger"
+      },
+      "channel": {
+        "id": 2385,
+        "name": "SR Extra03"
+      },
+      "liveaudio": {
+        "id": 2385,
+        "url": "http://sverigesradio.se/topsy/direkt/2385.rtmp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      },
+      "mobileliveaudio": {
+        "id": 2385,
+        "url": "rtsp://lyssna-mp4.sr.se/live/mobile/2385.sdp",
+        "statkey": "/app/direkt/p4 radiosporten[k(2385)]"
+      }
+    }
+  ]
+}
