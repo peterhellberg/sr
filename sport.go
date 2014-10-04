@@ -1,12 +1,19 @@
 package sr
 
-import "errors"
+import (
+	"errors"
+	"fmt"
+	"strings"
+)
 
 // SportService communicates with the sport
 // related endpoints in the Sveriges Radio API
 type SportService interface {
 	All() ([]*SportBroadcast, error)
-	//AllByTeamIDs(ids []int) ([]*SportBroadcast, error)
+	AllByTeamIDs(ids ...string) ([]*SportBroadcast, error)
+
+	allPath() string
+	allByTeamIDsPath(ids []string) string
 }
 
 // sportService implements SportService.
@@ -62,6 +69,35 @@ func (s *sportService) All() ([]*SportBroadcast, error) {
 	return value.Broadcasts, nil
 }
 
+// AllByTeamIDs retrieves all sport broadcasts by team ids
+func (s *sportService) AllByTeamIDs(ids ...string) ([]*SportBroadcast, error) {
+	req, err := s.client.NewRequest(s.allByTeamIDsPath(ids))
+	if err != nil {
+		return nil, err
+	}
+
+	var value struct {
+		Broadcasts []*SportBroadcast `json:"broadcasts"`
+	}
+
+	_, err = s.client.Do(req, &value)
+	if err != nil {
+		return nil, err
+	}
+
+	if value.Broadcasts == nil {
+		return nil, errors.New("missing broadcasts key in JSON")
+	}
+
+	return value.Broadcasts, nil
+}
+
 func (s *sportService) allPath() string {
 	return "broadcasts?format=json&pagination=false"
+}
+
+func (s *sportService) allByTeamIDsPath(ids []string) string {
+	joinedIds := strings.Join(ids, ",")
+
+	return fmt.Sprintf("broadcasts?format=json&pagination=false&teamIds=%s", joinedIds)
 }
