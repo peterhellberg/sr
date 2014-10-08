@@ -1,8 +1,5 @@
-# *UNDER HEAVY DEVELOPMENT, Probably not a good idea to use this code just yet :)*
-
 sr (api v2)
 ==========
-
 
 Go library for [Sveriges Radio API](http://sverigesradio.se/api/documentation/v2/index.html)
 
