@@ -15,7 +15,7 @@ func TestEpisodesGetLatest(t *testing.T) {
 	assert.Equal(t, "PR, opium och ministerdebatt - live från Örebro", ep.Title)
 	assert.Equal(t, 3240, ep.Broadcast.Playlist.Duration)
 
-	assert.Equal(t, "2014-09-25 16:06:00 +0200 CEST", ep.PublishDateUTC.String())
+	assert.Equal(t, "2014-09-25 14:06:00 +0000 UTC", ep.PublishDate.UTC().String())
 }
 
 func TestEpisodesByProgramID(t *testing.T) {

@@ -14,7 +14,7 @@ type Episode struct {
 	Description      string     `json:"description"`
 	URL              string     `json:"url"`
 	Program          *Program   `json:"program"`
-	PublishDateUTC   wcf.Time   `json:"publishdateutc"`
+	PublishDate      wcf.Time   `json:"publishdateutc"`
 	ImageURL         string     `json:"imageurl"`
 	ImageURLTemplate string     `json:"imageurltemplate"`
 	Broadcast        *Broadcast `json:"broadcast"`
@@ -29,7 +29,7 @@ type Podfile struct {
 	FileSizeInBytes int      `json:"filesizeinbytes"`
 	Program         *Program `json:"program"`
 	Duration        int      `json:"duration"`
-	PublishDateUTC  string   `json:"publishdateutc"`
+	PublishDate     wcf.Time `json:"publishdateutc"`
 	ID              int      `json:"id"`
 	URL             string   `json:"url"`
 	StatKey         string   `json:"statkey"`

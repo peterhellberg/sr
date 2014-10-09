@@ -13,6 +13,5 @@ func TestTimeUnmarshalJSON(t *testing.T) {
 
 	tt.UnmarshalJSON(in)
 
-	assert.Equal(t, "2014-09-25 16:06:00 +0200 CEST", tt.String())
-
+	assert.Equal(t, "2014-09-25 14:06:00 +0000 UTC", tt.UTC().String())
 }
