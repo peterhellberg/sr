@@ -3,6 +3,8 @@ package sr
 import (
 	"errors"
 	"fmt"
+
+	"github.com/peterhellberg/sr/wcf"
 )
 
 // Episode represent a Radio episode
@@ -12,7 +14,7 @@ type Episode struct {
 	Description      string     `json:"description"`
 	URL              string     `json:"url"`
 	Program          *Program   `json:"program"`
-	PublishDateUTC   string     `json:"publishdateutc"`
+	PublishDateUTC   wcf.Time   `json:"publishdateutc"`
 	ImageURL         string     `json:"imageurl"`
 	ImageURLTemplate string     `json:"imageurltemplate"`
 	Broadcast        *Broadcast `json:"broadcast"`
