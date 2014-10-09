@@ -3,7 +3,7 @@ package wcf
 import (
 	"testing"
 
-	"github.com/bmizerany/assert"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestTimeUnmarshalJSON(t *testing.T) {
