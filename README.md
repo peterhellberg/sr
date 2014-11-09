@@ -41,7 +41,52 @@ func main() {
 ## Services
 
 ### Channels
+
+Return a list of SR all channels
+
+```go
+package main
+
+import (
+	"fmt"
+
+	"github.com/peterhellberg/sr"
+)
+
+func main() {
+	sr := sr.NewClient(nil)
+
+	if channels, err := sr.Channels.All(); err == nil {
+		for _, c := range channels {
+			fmt.Println(c.Name, "\n", c.SiteURL, "\n")
+		}
+	}
+}
+```
+
 ### Episodes
+
+Get broadcast file for the latest episode of "Tankesmedjan"
+
+```go
+package main
+
+import (
+	"fmt"
+
+	"github.com/peterhellberg/sr"
+)
+
+func main() {
+	sr := sr.NewClient(nil)
+	id := 3718
+
+	if e, err := sr.Episodes.GetLatest(id); err == nil {
+		fmt.Println(e.Broadcast.Broadcastfiles[0].URL)
+	}
+}
+```
+
 ### News
 ### Playlists
 ### Program Categories
