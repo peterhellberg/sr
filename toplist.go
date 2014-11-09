@@ -3,6 +3,8 @@ package sr
 import (
 	"errors"
 	"fmt"
+
+	"github.com/peterhellberg/sr/wcf"
 )
 
 // Show represents a radio show
@@ -10,7 +12,7 @@ type Show struct {
 	ID               int        `json:"id"`
 	Title            string     `json:"title"`
 	Description      string     `json:"description"`
-	Dateutc          string     `json:"dateutc"`
+	Date             wcf.Time   `json:"dateutc"`
 	Type             string     `json:"type"`
 	Program          *Program   `json:"program"`
 	ImageURL         string     `json:"imageurl"`
@@ -18,22 +20,20 @@ type Show struct {
 	Broadcast        *Broadcast `json:"broadcast"`
 }
 
+// Asset represents a radio asset
+type Asset struct {
+	Duration    int      `json:"duration"`
+	PublishDate wcf.Time `json:"publishdateutc"`
+	ID          int      `json:"id"`
+	URL         string   `json:"url"`
+	StatKey     string   `json:"statkey"`
+}
+
+// Broadcast represents a radio broadcast
 type Broadcast struct {
-	AvailableStopUTC string `json:"availablestoputc"`
-	Playlist         struct {
-		Duration       int    `json:"duration"`
-		PublishDateUTC string `json:"publishdateutc"`
-		ID             int    `json:"id"`
-		URL            string `json:"url"`
-		StatKey        string `json:"statkey"`
-	} `json:"playlist"`
-	Broadcastfiles []struct {
-		Duration       int    `json:"duration"`
-		PublishDateUTC string `json:"publishdateutc"`
-		ID             int    `json:"id"`
-		URL            string `json:"url"`
-		StatKey        string `json:"statkey"`
-	} `json:"broadcastfiles"`
+	AvailableStop  wcf.Time `json:"availablestoputc"`
+	Playlist       Asset    `json:"playlist"`
+	Broadcastfiles []Asset  `json:"broadcastfiles"`
 }
 
 // ToplistService communicates with the toplist
